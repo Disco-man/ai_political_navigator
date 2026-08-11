@@ -1,0 +1,1691 @@
+{
+  "countries": [
+    {
+      "id": "united_states_of_america",
+      "name": "United States of America",
+      "code": "USA",
+      "capital": "Washington, D.C.",
+      "population": 331900000,
+      "gdp": 25500.0,
+      "government_type": "Federal Presidential Republic",
+      "current_events": [
+        {
+          "id": "us_election_2024",
+          "title": "2024 Presidential Election",
+          "date": "2024-11-05",
+          "category": "domestic_policy",
+          "description": "The United States held its 60th presidential election with record voter turnout and significant political polarization.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Joe Biden",
+            "Donald Trump"
+          ],
+          "impact": "This election represents a critical moment in American democracy, with profound implications for domestic policy, international relations, and the global political landscape. The outcome will shape U.S. policy on climate change, healthcare, immigration, and foreign affairs for the next four years.",
+          "background": "The 2024 election takes place against a backdrop of deep political division in the United States. Issues such as economic inequality, healthcare reform, immigration policy, and the role of the federal government have created stark divides between political parties and among the American electorate.",
+          "full_history": "The 60th United States presidential election, held on November 5, 2024, was a fiercely contested battle between the Republican nominee, President Donald Trump, and the Democratic nominee, Vice President Kamala Harris. The election cycle was historically unprecedented and highly volatile, marked by the dramatic late-stage withdrawal of incumbent President Joe Biden from the Democratic ticket in July 2024, two assassination attempts on Trump, and deep partisan polarization.\n\nThe Republican Party (GOP), led by Donald Trump and his running mate JD Vance, successfully capitalized on widespread voter dissatisfaction regarding cumulative inflation, the cost of living, and border security. The Trump campaign's \"America First\" platform promised sweeping deregulation, universal tariffs, and aggressive immigration enforcement. This messaging resonated strongly across rural areas, the working class, and key swing states, ultimately securing Trump both the Electoral College and the popular vote, alongside a Republican takeover of the Senate.\n\nConversely, the Democratic Party, helmed by Kamala Harris and Tim Walz after Biden's exit, focused heavily on defending democratic institutions, protecting reproductive rights (following the overturn of Roe v. Wade), and expanding middle-class economic programs. Despite mobilizing significant urban and suburban coalitions, the Democratic ticket struggled to overcome the electorate's overarching economic anxieties and the historical burden of the Biden-Harris administration's incumbency.\n\nGeopolitically, Trump's definitive victory signaled an immediate and massive shift in U.S. foreign policy. The incoming Republican administration promised a sharp departure from the Biden-era emphasis on traditional multilateralism. Foreign capitals and global markets were forced to rapidly adjust to the return of transactional diplomacy, heightened skepticism toward NATO funding, and intense trade protectionism, particularly aimed at aggressive economic decoupling from China.",
+          "developments": [
+            {
+              "date": "2023-11-15",
+              "title": "Campaign Season Officially Begins",
+              "description": "Major candidates from both parties officially announce their campaigns, setting the stage for a highly competitive race."
+            },
+            {
+              "date": "2024-03-05",
+              "title": "Super Tuesday Primary Results",
+              "description": "Critical primary elections across multiple states help determine the frontrunners for each party's nomination."
+            },
+            {
+              "date": "2024-09-10",
+              "title": "First Presidential Debate",
+              "description": "Candidates face off in the first of three scheduled debates, discussing key policy positions and attacking opponents' records."
+            }
+          ]
+        },
+        {
+          "id": "us_china_trade",
+          "title": "US-China Trade Relations",
+          "date": "2023-06-15",
+          "category": "foreign_policy",
+          "description": "Ongoing trade tensions and tariff negotiations between the United States and China continue to shape global economics.",
+          "severity": "high",
+          "related_countries": [
+            "China"
+          ],
+          "related_figures": [
+            "Joe Biden"
+          ],
+          "impact": "The US-China Trade Relations has reshaped diplomatic relations and strategic alignments, with lasting effects on regional and global stability. For United States of America, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of China has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Ongoing trade tensions and tariff negotiations between the United States and China continue to shape global economics. Prior events and existing tensions contributed to the context. Key figures involved have included Joe Biden.",
+          "full_history": "Ongoing trade tensions and tariff negotiations between the United States and China continue to shape global economics.\n\n The event was classified as high in severity and is categorized under foreign policy. Central actors included Joe Biden. Since 2023-06-15, the situation has continued to evolve and to be debated in United States of America and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "us_inflation",
+          "title": "Inflation Control Measures",
+          "date": "2023-03-20",
+          "category": "economy",
+          "description": "Federal Reserve implements interest rate adjustments to combat inflation rates reaching 40-year highs.",
+          "severity": "medium",
+          "related_countries": [],
+          "related_figures": [],
+          "impact": "The Inflation Control Measures has influenced economic policy, markets, and living standards both nationally and in connected economies. For United States of America, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Federal Reserve implements interest rate adjustments to combat inflation rates reaching 40-year highs. Prior events and existing tensions contributed to the context.",
+          "full_history": "Federal Reserve implements interest rate adjustments to combat inflation rates reaching 40-year highs.\n\n The event was classified as medium in severity and is categorized under economy. Since 2023-03-20, the situation has continued to evolve and to be debated in United States of America and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "us_trump_election",
+          "title": "Donald Trump Election",
+          "date": "2016-11-08",
+          "category": "domestic_policy",
+          "description": "Donald Trump wins surprising presidential victory, defeating Hillary Clinton.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Donald Trump"
+          ],
+          "impact": "The Donald Trump Election has had profound effects on governance, public trust, and the domestic political landscape. For United States of America, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Donald Trump wins surprising presidential victory, defeating Hillary Clinton. Prior events and existing tensions contributed to the context. Key figures involved have included Donald Trump.",
+          "full_history": "Donald Trump wins surprising presidential victory, defeating Hillary Clinton.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Donald Trump. Since 2016-11-08, the situation has continued to evolve and to be debated in United States of America and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "us_capitol_riot",
+          "title": "January 6 Capitol Riot",
+          "date": "2021-01-06",
+          "category": "domestic_policy",
+          "description": "Supporters of Trump storm US Capitol attempting to overturn election results.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Donald Trump"
+          ],
+          "impact": "The January 6 Capitol Riot has had profound effects on governance, public trust, and the domestic political landscape. For United States of America, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Supporters of Trump storm US Capitol attempting to overturn election results. Prior events and existing tensions contributed to the context. Key figures involved have included Donald Trump.",
+          "full_history": "Supporters of Trump storm US Capitol attempting to overturn election results.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Donald Trump. Since 2021-01-06, the situation has continued to evolve and to be debated in United States of America and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "joe_biden",
+          "name": "Joe Biden",
+          "role": "46th President of the United States",
+          "birth_year": 1942,
+          "death_year": null,
+          "biography": "Joe Biden served as Vice President under Barack Obama from 2009 to 2017 before becoming the 46th President of the United States in January 2021. A longtime U.S. Senator from Delaware (1973–2009), he built his career on foreign policy expertise and working across the aisle. As President, he championed the Infrastructure Investment and Jobs Act, the American Rescue Plan, and rejoined the Paris Climate Agreement. His tenure was marked by the withdrawal from Afghanistan, support for Ukraine after the Russian invasion, and efforts to restore traditional alliances. In July 2024 he withdrew from the 2024 race; Kamala Harris became the Democratic nominee.",
+          "achievements": [
+            "Infrastructure Investment and Jobs Act",
+            "American Rescue Plan",
+            "Rejoining Paris Climate Agreement"
+          ],
+          "related_countries": [
+            "United States"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "russia",
+      "name": "Russia",
+      "code": "RUS",
+      "capital": "Moscow",
+      "population": 144100000,
+      "gdp": 2240.0,
+      "government_type": "Federal Semi-Presidential Republic",
+      "current_events": [
+        {
+          "id": "ukraine_conflict",
+          "title": "Russia-Ukraine Conflict",
+          "date": "2022-02-24",
+          "category": "military",
+          "description": "Large-scale military operation in Ukraine marking a significant shift in European security dynamics and international relations.",
+          "severity": "high",
+          "related_countries": [
+            "Ukraine",
+            "United States",
+            "NATO countries"
+          ],
+          "related_figures": [
+            "Vladimir Putin",
+            "Volodymyr Zelenskyy"
+          ],
+          "impact": "The conflict has fundamentally reshaped European security architecture, strengthened NATO unity, triggered the largest refugee crisis in Europe since World War II, and caused significant global economic disruptions, particularly in energy and food markets.",
+          "background": "Tensions between Russia and Ukraine have deep historical roots, dating back to the dissolution of the Soviet Union. The 2014 annexation of Crimea and support for separatists in eastern Ukraine set the stage for this broader conflict. Russia's concerns about NATO expansion and Ukraine's westward orientation contributed to escalating tensions.",
+          "developments": [
+            {
+              "date": "2022-02-24",
+              "title": "Military Operation Begins",
+              "description": "Russia launches a full-scale invasion of Ukraine across multiple fronts, targeting major cities including Kyiv, Kharkiv, and Mariupol."
+            },
+            {
+              "date": "2022-03-02",
+              "title": "International Sanctions Imposed",
+              "description": "Western nations implement unprecedented economic sanctions against Russia, targeting banks, oligarchs, and key industries."
+            },
+            {
+              "date": "2022-04-03",
+              "title": "Russian Forces Withdraw from Kyiv",
+              "description": "After failing to capture the capital, Russian forces retreat from the Kyiv region, shifting focus to eastern and southern Ukraine."
+            },
+            {
+              "date": "2022-09-21",
+              "title": "Partial Mobilization Announced",
+              "description": "Russia announces mobilization of 300,000 reservists, marking a significant escalation in the conflict."
+            },
+            {
+              "date": "2023-06-06",
+              "title": "Ukrainian Counteroffensive Begins",
+              "description": "Ukraine launches a major counteroffensive operation aimed at reclaiming occupied territories in the south and east."
+            }
+          ],
+          "full_history": "Large-scale military operation in Ukraine marking a significant shift in European security dynamics and international relations.\n\n The event was classified as high in severity and is categorized under military. Central actors included Vladimir Putin, Volodymyr Zelenskyy. Since 2022-02-24, the situation has continued to evolve and to be debated in Russia and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "russia_sanctions",
+          "title": "International Economic Sanctions",
+          "date": "2022-03-01",
+          "category": "economy",
+          "description": "Western nations impose comprehensive economic sanctions affecting Russian banking, energy, and technology sectors.",
+          "severity": "high",
+          "related_countries": [
+            "United States",
+            "European Union"
+          ],
+          "related_figures": [
+            "Vladimir Putin"
+          ],
+          "impact": "The International Economic Sanctions has influenced economic policy, markets, and living standards both nationally and in connected economies. For Russia, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of United States, European Union has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Western nations impose comprehensive economic sanctions affecting Russian banking, energy, and technology sectors. Prior events and existing tensions contributed to the context. Key figures involved have included Vladimir Putin.",
+          "full_history": "Western nations impose comprehensive economic sanctions affecting Russian banking, energy, and technology sectors.\n\n The event was classified as high in severity and is categorized under economy. Central actors included Vladimir Putin. Since 2022-03-01, the situation has continued to evolve and to be debated in Russia and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "russia_crimea_2014",
+          "title": "Crimea Annexation 2014",
+          "date": "2014-03-18",
+          "category": "military",
+          "description": "Russia annexes Crimea from Ukraine following revolution in Kyiv.",
+          "severity": "high",
+          "related_countries": [
+            "Ukraine"
+          ],
+          "related_figures": [
+            "Vladimir Putin"
+          ],
+          "impact": "The Crimea Annexation 2014 has had significant security and humanitarian implications, affecting military posture and conflict dynamics. For Russia, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of Ukraine has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Russia annexes Crimea from Ukraine following revolution in Kyiv. Prior events and existing tensions contributed to the context. Key figures involved have included Vladimir Putin.",
+          "full_history": "Russia annexes Crimea from Ukraine following revolution in Kyiv.\n\n The event was classified as high in severity and is categorized under military. Central actors included Vladimir Putin. Since 2014-03-18, the situation has continued to evolve and to be debated in Russia and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "russia_navalny",
+          "title": "Navalny Poisoning and Imprisonment",
+          "date": "2020-08-20",
+          "category": "domestic_policy",
+          "description": "Opposition leader Alexei Navalny poisoned, later imprisoned upon return to Russia.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Vladimir Putin"
+          ],
+          "impact": "The Navalny Poisoning and Imprisonment has had profound effects on governance, public trust, and the domestic political landscape. For Russia, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Opposition leader Alexei Navalny poisoned, later imprisoned upon return to Russia. Prior events and existing tensions contributed to the context. Key figures involved have included Vladimir Putin.",
+          "full_history": "Opposition leader Alexei Navalny poisoned, later imprisoned upon return to Russia.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Vladimir Putin. Since 2020-08-20, the situation has continued to evolve and to be debated in Russia and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "vladimir_putin",
+          "name": "Vladimir Putin",
+          "role": "President of Russia",
+          "birth_year": 1952,
+          "death_year": null,
+          "biography": "Vladimir Putin has served as President of Russia multiple times since 2000, with a four-year stint as Prime Minister (2008–2012) due to term limits. A former KGB officer and head of the FSB, he has shaped modern Russian foreign policy, centralised power, and overseen the annexation of Crimea (2014) and the full-scale invasion of Ukraine (2022). His rule is characterised by strong state control, restrictions on dissent, and an assertive stance toward the West and the post-Soviet space. He has prioritised military modernisation, energy leverage, and alliances with China and other non-Western powers.",
+          "achievements": [
+            "Stabilization of Russian economy in early 2000s",
+            "Expansion of Russian influence in post-Soviet space",
+            "Hosting 2014 Winter Olympics"
+          ],
+          "related_countries": [
+            "Russia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "code": "CHN",
+      "capital": "Beijing",
+      "population": 1412000000,
+      "gdp": 19370.0,
+      "government_type": "Socialist Republic",
+      "current_events": [
+        {
+          "id": "china_zero_covid",
+          "title": "Zero-COVID Policy Changes",
+          "date": "2022-12-07",
+          "category": "domestic_policy",
+          "description": "China ends its strict zero-COVID policy after nearly three years, leading to significant social and economic changes.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Xi Jinping"
+          ],
+          "impact": "The abrupt policy shift led to a massive wave of COVID-19 infections across China, overwhelming hospitals in major cities. The change also signaled a major pivot in government policy-making and had significant implications for global supply chains, international travel, and China's economic recovery.",
+          "background": "China's zero-COVID policy, implemented in early 2020, involved strict lockdowns, mass testing, and quarantine measures whenever cases were detected. While initially successful in controlling the virus, the policy became increasingly difficult to maintain with the emergence of more transmissible variants, leading to public frustration and economic strain.",
+          "developments": [
+            {
+              "date": "2022-11-24",
+              "title": "Widespread Protests Erupt",
+              "description": "Rare public protests break out in major cities across China, with citizens demanding an end to strict COVID-19 restrictions."
+            },
+            {
+              "date": "2022-12-07",
+              "title": "Policy Reversal Announced",
+              "description": "Chinese government announces a dramatic loosening of COVID-19 restrictions, effectively ending the zero-COVID policy."
+            },
+            {
+              "date": "2022-12-26",
+              "title": "Infection Wave Peaks",
+              "description": "Hospitals report being overwhelmed as COVID-19 infections surge across major Chinese cities following policy changes."
+            },
+            {
+              "date": "2023-01-08",
+              "title": "Borders Reopen",
+              "description": "China ends mandatory quarantine for international arrivals and begins issuing travel visas again, marking full reopening."
+            }
+          ],
+          "full_history": "China ends its strict zero-COVID policy after nearly three years, leading to significant social and economic changes.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Xi Jinping. Since 2022-12-07, the situation has continued to evolve and to be debated in China and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "taiwan_tensions",
+          "title": "Taiwan Strait Tensions",
+          "date": "2023-04-15",
+          "category": "foreign_policy",
+          "description": "Increased military activities and diplomatic tensions surrounding Taiwan's status and cross-strait relations.",
+          "severity": "high",
+          "related_countries": [
+            "Taiwan",
+            "United States"
+          ],
+          "related_figures": [
+            "Xi Jinping"
+          ],
+          "impact": "The escalation has raised concerns about potential military conflict in one of the world's most strategic regions, affecting global semiconductor supply chains, international trade routes, and U.S.-China relations. It has also prompted increased defense spending and military preparations across the Indo-Pacific region.",
+          "background": "China considers Taiwan a breakaway province that must be reunified with the mainland, while Taiwan's government maintains its de facto independence. U.S. support for Taiwan, including arms sales and diplomatic engagement, has long been a source of tension with Beijing.",
+          "developments": [
+            {
+              "date": "2022-08-02",
+              "title": "High-Profile Diplomatic Visit",
+              "description": "U.S. House Speaker Nancy Pelosi visits Taiwan, the highest-level U.S. visit in 25 years, angering Beijing."
+            },
+            {
+              "date": "2022-08-04",
+              "title": "Large-Scale Military Exercises",
+              "description": "China launches unprecedented military drills around Taiwan, including missile launches over the island."
+            },
+            {
+              "date": "2023-04-08",
+              "title": "Taiwan President's U.S. Transit",
+              "description": "Taiwan's president transits through the United States, prompting another round of Chinese military exercises."
+            }
+          ],
+          "full_history": "Increased military activities and diplomatic tensions surrounding Taiwan's status and cross-strait relations.\n\n The event was classified as high in severity and is categorized under foreign policy. Central actors included Xi Jinping. Since 2023-04-15, the situation has continued to evolve and to be debated in China and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "belt_road",
+          "title": "Belt and Road Initiative Expansion",
+          "date": "2023-10-18",
+          "category": "foreign_policy",
+          "description": "China's massive infrastructure and economic development program continues expanding into new countries and regions.",
+          "severity": "medium",
+          "related_countries": [
+            "Multiple Asian and African nations"
+          ],
+          "related_figures": [
+            "Xi Jinping"
+          ],
+          "impact": "The Belt and Road Initiative Expansion has reshaped diplomatic relations and strategic alignments, with lasting effects on regional and global stability. For China, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of Multiple Asian and African nations has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. China's massive infrastructure and economic development program continues expanding into new countries and regions. Prior events and existing tensions contributed to the context. Key figures involved have included Xi Jinping.",
+          "full_history": "China's massive infrastructure and economic development program continues expanding into new countries and regions.\n\n The event was classified as medium in severity and is categorized under foreign policy. Central actors included Xi Jinping. Since 2023-10-18, the situation has continued to evolve and to be debated in China and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "china_hong_kong_law",
+          "title": "Hong Kong National Security Law",
+          "date": "2020-06-30",
+          "category": "domestic_policy",
+          "description": "China implements security law in Hong Kong, effectively ending 'one country, two systems'.",
+          "severity": "high",
+          "related_countries": [
+            "Hong Kong"
+          ],
+          "related_figures": [
+            "Xi Jinping"
+          ],
+          "impact": "The Hong Kong National Security Law has had profound effects on governance, public trust, and the domestic political landscape. For China, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of Hong Kong has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. China implements security law in Hong Kong, effectively ending 'one country, two systems'. Prior events and existing tensions contributed to the context. Key figures involved have included Xi Jinping.",
+          "full_history": "China implements security law in Hong Kong, effectively ending 'one country, two systems'.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Xi Jinping. Since 2020-06-30, the situation has continued to evolve and to be debated in China and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "xi_jinping",
+          "name": "Xi Jinping",
+          "role": "General Secretary of the Communist Party and President",
+          "birth_year": 1953,
+          "death_year": null,
+          "biography": "Xi Jinping has led China as General Secretary of the Communist Party since 2012 and as state President since 2013. He has promoted the 'Chinese Dream' of national rejuvenation, Belt and Road Initiative, and 'common prosperity.' His tenure saw a sweeping anti-corruption campaign, abolition of term limits (2018), and tighter control over civil society, Hong Kong, and Xinjiang. Under him, China has pursued a more assertive foreign policy, technological self-reliance, and a shift toward state-led development and ideological discipline at home.",
+          "achievements": [
+            "Belt and Road Initiative",
+            "Anti-corruption campaign",
+            "Poverty alleviation programs"
+          ],
+          "related_countries": [
+            "China"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "united_kingdom",
+      "name": "United Kingdom",
+      "code": "GBR",
+      "capital": "London",
+      "population": 67220000,
+      "gdp": 3070.0,
+      "government_type": "Constitutional Monarchy",
+      "current_events": [
+        {
+          "id": "brexit",
+          "title": "Brexit and Post-EU Relations",
+          "date": "2020-01-31",
+          "category": "foreign_policy",
+          "description": "The United Kingdom officially left the European Union, reshaping trade relations and immigration policies.",
+          "severity": "high",
+          "related_countries": [
+            "European Union countries"
+          ],
+          "related_figures": [
+            "Boris Johnson",
+            "Rishi Sunak"
+          ],
+          "impact": "Brexit has fundamentally altered the UK's relationship with Europe, affecting trade, immigration, financial services, and diplomatic influence. The departure has led to new border controls, changed labor markets, and required renegotiation of hundreds of international agreements.",
+          "background": "The 2016 referendum on EU membership resulted in a narrow victory for the 'Leave' campaign. Years of complex negotiations followed, marked by political turmoil, multiple deadline extensions, and changes in government leadership before the UK finally departed on January 31, 2020.",
+          "developments": [
+            {
+              "date": "2016-06-23",
+              "title": "Brexit Referendum",
+              "description": "UK voters choose to leave the European Union by 52% to 48% in a historic referendum."
+            },
+            {
+              "date": "2019-12-12",
+              "title": "Conservative Election Victory",
+              "description": "Boris Johnson wins a decisive majority, promising to 'Get Brexit Done' and end political deadlock."
+            },
+            {
+              "date": "2020-01-31",
+              "title": "Official Departure from EU",
+              "description": "The UK formally leaves the European Union after 47 years of membership."
+            },
+            {
+              "date": "2020-12-24",
+              "title": "Trade Deal Agreed",
+              "description": "UK and EU agree on a post-Brexit trade deal, avoiding a disruptive no-deal exit."
+            }
+          ],
+          "full_history": "The United Kingdom officially left the European Union, reshaping trade relations and immigration policies.\n\n The event was classified as high in severity and is categorized under foreign policy. Central actors included Boris Johnson, Rishi Sunak. Since 2020-01-31, the situation has continued to evolve and to be debated in United Kingdom and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "uk_brexit_referendum",
+          "title": "Brexit Referendum Vote",
+          "date": "2016-06-23",
+          "category": "foreign_policy",
+          "description": "UK votes 52% to 48% to leave European Union in historic referendum.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [],
+          "impact": "The Brexit Referendum Vote has reshaped diplomatic relations and strategic alignments, with lasting effects on regional and global stability. For United Kingdom, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. UK votes 52% to 48% to leave European Union in historic referendum. Prior events and existing tensions contributed to the context.",
+          "full_history": "UK votes 52% to 48% to leave European Union in historic referendum.\n\n The event was classified as high in severity and is categorized under foreign policy. Since 2016-06-23, the situation has continued to evolve and to be debated in United Kingdom and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "uk_covid_lockdown",
+          "title": "First COVID-19 Lockdown",
+          "date": "2020-03-23",
+          "category": "domestic_policy",
+          "description": "UK implements first national lockdown in response to COVID-19 pandemic.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Boris Johnson"
+          ],
+          "impact": "The First COVID-19 Lockdown has had profound effects on governance, public trust, and the domestic political landscape. For United Kingdom, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. UK implements first national lockdown in response to COVID-19 pandemic. Prior events and existing tensions contributed to the context. Key figures involved have included Boris Johnson.",
+          "full_history": "UK implements first national lockdown in response to COVID-19 pandemic.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Boris Johnson. Since 2020-03-23, the situation has continued to evolve and to be debated in United Kingdom and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "boris_johnson",
+          "name": "Boris Johnson",
+          "role": "Prime Minister (2019-2022)",
+          "birth_year": 1964,
+          "death_year": null,
+          "biography": "Boris Johnson served as Prime Minister of the United Kingdom from 2019 to 2022. A leading figure in the Leave campaign, he oversaw the completion of Brexit and negotiated the EU–UK Trade and Cooperation Agreement. His tenure was dominated by the COVID-19 pandemic, lockdowns, and the rollout of vaccines. His government was marked by a distinctive, often controversial communication style, tensions with the judiciary and Parliament, and scandals that contributed to his resignation. He had previously been Mayor of London (2008–2016) and Foreign Secretary (2016–2018).",
+          "achievements": [
+            "Led Brexit negotiations",
+            "COVID vaccine rollout"
+          ],
+          "related_countries": [
+            "United Kingdom"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "name": "Germany",
+      "code": "DEU",
+      "capital": "Berlin",
+      "population": 83240000,
+      "gdp": 4260.0,
+      "government_type": "Federal Parliamentary Republic",
+      "current_events": [
+        {
+          "id": "energy_crisis",
+          "title": "Energy Crisis and Green Transition",
+          "date": "2022-09-01",
+          "category": "economy",
+          "description": "Germany faces energy challenges following reduced Russian gas supplies, accelerating renewable energy transition.",
+          "severity": "high",
+          "related_countries": [
+            "Russia"
+          ],
+          "related_figures": [
+            "Olaf Scholz"
+          ],
+          "impact": "The Energy Crisis and Green Transition has influenced economic policy, markets, and living standards both nationally and in connected economies. For Germany, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of Russia has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Germany faces energy challenges following reduced Russian gas supplies, accelerating renewable energy transition. Prior events and existing tensions contributed to the context. Key figures involved have included Olaf Scholz.",
+          "full_history": "Germany faces energy challenges following reduced Russian gas supplies, accelerating renewable energy transition.\n\n The event was classified as high in severity and is categorized under economy. Central actors included Olaf Scholz. Since 2022-09-01, the situation has continued to evolve and to be debated in Germany and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "germany_migration_crisis",
+          "title": "European Migration Crisis",
+          "date": "2015-09-04",
+          "category": "social",
+          "description": "Germany accepts over 1 million refugees, Merkel's 'Wir schaffen das' policy reshapes European politics.",
+          "severity": "high",
+          "related_countries": [
+            "Syria",
+            "Turkey"
+          ],
+          "related_figures": [
+            "Angela Merkel"
+          ],
+          "impact": "The European Migration Crisis has triggered broad social debate and policy responses, with lasting cultural and institutional effects. For Germany, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of Syria, Turkey has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Germany accepts over 1 million refugees, Merkel's 'Wir schaffen das' policy reshapes European politics. Prior events and existing tensions contributed to the context. Key figures involved have included Angela Merkel.",
+          "full_history": "Germany accepts over 1 million refugees, Merkel's 'Wir schaffen das' policy reshapes European politics.\n\n The event was classified as high in severity and is categorized under social. Central actors included Angela Merkel. Since 2015-09-04, the situation has continued to evolve and to be debated in Germany and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "germany_coalition_2021",
+          "title": "Traffic Light Coalition Formation",
+          "date": "2021-12-08",
+          "category": "domestic_policy",
+          "description": "SPD, Greens, and FDP form first-ever three-way coalition government, ending Merkel era.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [],
+          "impact": "The Traffic Light Coalition Formation has had profound effects on governance, public trust, and the domestic political landscape. For Germany, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. SPD, Greens, and FDP form first-ever three-way coalition government, ending Merkel era. Prior events and existing tensions contributed to the context.",
+          "full_history": "SPD, Greens, and FDP form first-ever three-way coalition government, ending Merkel era.\n\n The event was classified as high in severity and is categorized under domestic policy. Since 2021-12-08, the situation has continued to evolve and to be debated in Germany and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "germany_nord_stream",
+          "title": "Nord Stream 2 Suspension",
+          "date": "2022-02-22",
+          "category": "foreign_policy",
+          "description": "Germany halts Nord Stream 2 pipeline certification after Russian invasion of Ukraine, major policy shift.",
+          "severity": "high",
+          "related_countries": [
+            "Russia",
+            "Ukraine"
+          ],
+          "related_figures": [],
+          "impact": "The Nord Stream 2 Suspension has reshaped diplomatic relations and strategic alignments, with lasting effects on regional and global stability. For Germany, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of Russia, Ukraine has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Germany halts Nord Stream 2 pipeline certification after Russian invasion of Ukraine, major policy shift. Prior events and existing tensions contributed to the context.",
+          "full_history": "Germany halts Nord Stream 2 pipeline certification after Russian invasion of Ukraine, major policy shift.\n\n The event was classified as high in severity and is categorized under foreign policy. Since 2022-02-22, the situation has continued to evolve and to be debated in Germany and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "angela_merkel",
+          "name": "Angela Merkel",
+          "role": "Chancellor (2005-2021)",
+          "birth_year": 1954,
+          "death_year": null,
+          "biography": "Angela Merkel served as Chancellor of Germany from 2005 to 2021, becoming one of the most influential leaders in modern European politics. A physicist and former minister in East Germany, she led the Christian Democratic Union and steered Germany through the eurozone crisis, the 2015 refugee influx, and the COVID-19 pandemic. She was known for a cautious, pragmatic style and for upholding liberal democracy and multilateralism. Her tenure defined an era of German centrality in the EU and transatlantic relations; she did not seek re-election in 2021.",
+          "achievements": [
+            "EU leadership",
+            "Handling 2015 refugee crisis"
+          ],
+          "related_countries": [
+            "Germany"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "code": "FRA",
+      "capital": "Paris",
+      "population": 67390000,
+      "gdp": 2940.0,
+      "government_type": "Semi-Presidential Republic",
+      "current_events": [
+        {
+          "id": "pension_reform",
+          "title": "Pension Reform Protests",
+          "date": "2023-03-16",
+          "category": "domestic_policy",
+          "description": "Massive protests against raising retirement age from 62 to 64 sparked nationwide demonstrations.",
+          "severity": "medium",
+          "related_countries": [],
+          "related_figures": [
+            "Emmanuel Macron"
+          ],
+          "impact": "The Pension Reform Protests has had profound effects on governance, public trust, and the domestic political landscape. For France, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Massive protests against raising retirement age from 62 to 64 sparked nationwide demonstrations. Prior events and existing tensions contributed to the context. Key figures involved have included Emmanuel Macron.",
+          "full_history": "Massive protests against raising retirement age from 62 to 64 sparked nationwide demonstrations.\n\n The event was classified as medium in severity and is categorized under domestic policy. Central actors included Emmanuel Macron. Since 2023-03-16, the situation has continued to evolve and to be debated in France and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "france_paris_attacks",
+          "title": "Paris Terror Attacks",
+          "date": "2015-11-13",
+          "category": "military",
+          "description": "Coordinated ISIS terror attacks kill 130 people, leading to state of emergency and security reforms.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [],
+          "impact": "The Paris Terror Attacks has had significant security and humanitarian implications, affecting military posture and conflict dynamics. For France, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Coordinated ISIS terror attacks kill 130 people, leading to state of emergency and security reforms. Prior events and existing tensions contributed to the context.",
+          "full_history": "Coordinated ISIS terror attacks kill 130 people, leading to state of emergency and security reforms.\n\n The event was classified as high in severity and is categorized under military. Since 2015-11-13, the situation has continued to evolve and to be debated in France and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "france_yellow_vests",
+          "title": "Yellow Vests Movement",
+          "date": "2018-11-17",
+          "category": "social",
+          "description": "Mass protests against fuel taxes evolve into broader anti-government movement lasting months.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Emmanuel Macron"
+          ],
+          "impact": "The Yellow Vests Movement has triggered broad social debate and policy responses, with lasting cultural and institutional effects. For France, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Mass protests against fuel taxes evolve into broader anti-government movement lasting months. Prior events and existing tensions contributed to the context. Key figures involved have included Emmanuel Macron.",
+          "full_history": "Mass protests against fuel taxes evolve into broader anti-government movement lasting months.\n\n The event was classified as high in severity and is categorized under social. Central actors included Emmanuel Macron. Since 2018-11-17, the situation has continued to evolve and to be debated in France and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "france_macron_reelection",
+          "title": "Macron Re-election 2022",
+          "date": "2022-04-24",
+          "category": "domestic_policy",
+          "description": "Emmanuel Macron defeats Marine Le Pen to become first French president re-elected in 20 years.",
+          "severity": "medium",
+          "related_countries": [],
+          "related_figures": [
+            "Emmanuel Macron"
+          ],
+          "impact": "The Macron Re-election 2022 has had profound effects on governance, public trust, and the domestic political landscape. For France, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Emmanuel Macron defeats Marine Le Pen to become first French president re-elected in 20 years. Prior events and existing tensions contributed to the context. Key figures involved have included Emmanuel Macron.",
+          "full_history": "Emmanuel Macron defeats Marine Le Pen to become first French president re-elected in 20 years.\n\n The event was classified as medium in severity and is categorized under domestic policy. Central actors included Emmanuel Macron. Since 2022-04-24, the situation has continued to evolve and to be debated in France and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "emmanuel_macron",
+          "name": "Emmanuel Macron",
+          "role": "President",
+          "birth_year": 1977,
+          "death_year": null,
+          "biography": "Emmanuel Macron became President of France in 2017 as the youngest head of state since Napoleon, after forming the centrist movement En Marche and defeating the traditional parties. He has promoted European integration, labour and pension reforms, and a business-friendly economic agenda, while facing major protests such as the gilets jaunes and pension strikes. His second term (from 2022) has been marked by a stronger parliamentary opposition, immigration and identity debates, and a leading role in EU defence and industrial policy. He is a former economy minister and investment banker.",
+          "achievements": [
+            "EU leadership",
+            "Economic modernization"
+          ],
+          "related_countries": [
+            "France"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukraine",
+      "name": "Ukraine",
+      "code": "UKR",
+      "capital": "Kyiv",
+      "population": 43810000,
+      "gdp": 200.0,
+      "government_type": "Parliamentary Republic",
+      "current_events": [
+        {
+          "id": "ukraine_war",
+          "title": "Russo-Ukrainian War",
+          "date": "2022-02-24",
+          "category": "military",
+          "description": "Ukraine defends its sovereignty against Russian invasion, receiving international military and humanitarian support while maintaining democratic governance under wartime conditions.",
+          "severity": "high",
+          "related_countries": [
+            "Russia",
+            "United States",
+            "NATO countries"
+          ],
+          "related_figures": [
+            "Volodymyr Zelenskyy",
+            "Vladimir Putin"
+          ],
+          "impact": "The Russo-Ukrainian War has had significant security and humanitarian implications, affecting military posture and conflict dynamics. For Ukraine, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of Russia, United States, NATO countries has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Ukraine defends its sovereignty against Russian invasion, receiving international military and humanitarian support while maintaining democratic governance under wartime conditions. Prior events and existing tensions contributed to the context. Key figures involved have included Volodymyr Zelenskyy, Vladimir Putin.",
+          "full_history": "Ukraine defends its sovereignty against Russian invasion, receiving international military and humanitarian support while maintaining democratic governance under wartime conditions.\n\n The event was classified as high in severity and is categorized under military. Central actors included Volodymyr Zelenskyy, Vladimir Putin. Since 2022-02-24, the situation has continued to evolve and to be debated in Ukraine and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "ukraine_euromaidan",
+          "title": "Euromaidan Revolution",
+          "date": "2014-02-22",
+          "category": "domestic_policy",
+          "description": "Pro-European protests lead to ouster of President Yanukovych, triggering crisis with Russia.",
+          "severity": "high",
+          "related_countries": [
+            "Russia"
+          ],
+          "related_figures": [],
+          "impact": "The Euromaidan Revolution has had profound effects on governance, public trust, and the domestic political landscape. For Ukraine, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of Russia has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Pro-European protests lead to ouster of President Yanukovych, triggering crisis with Russia. Prior events and existing tensions contributed to the context.",
+          "full_history": "Pro-European protests lead to ouster of President Yanukovych, triggering crisis with Russia.\n\n The event was classified as high in severity and is categorized under domestic policy. Since 2014-02-22, the situation has continued to evolve and to be debated in Ukraine and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "ukraine_crimea_annexation",
+          "title": "Crimea Annexation",
+          "date": "2014-03-18",
+          "category": "military",
+          "description": "Russia annexes Crimea following controversial referendum, beginning conflict in eastern Ukraine.",
+          "severity": "high",
+          "related_countries": [
+            "Russia"
+          ],
+          "related_figures": [],
+          "impact": "The Crimea Annexation has had significant security and humanitarian implications, affecting military posture and conflict dynamics. For Ukraine, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of Russia has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Russia annexes Crimea following controversial referendum, beginning conflict in eastern Ukraine. Prior events and existing tensions contributed to the context.",
+          "full_history": "Russia annexes Crimea following controversial referendum, beginning conflict in eastern Ukraine.\n\n The event was classified as high in severity and is categorized under military. Since 2014-03-18, the situation has continued to evolve and to be debated in Ukraine and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "ukraine_zelenskyy_election",
+          "title": "Zelenskyy Election Victory",
+          "date": "2019-04-21",
+          "category": "domestic_policy",
+          "description": "Comedian Volodymyr Zelenskyy wins landslide presidential victory, promising anti-corruption reforms.",
+          "severity": "medium",
+          "related_countries": [],
+          "related_figures": [
+            "Volodymyr Zelenskyy"
+          ],
+          "impact": "The Zelenskyy Election Victory has had profound effects on governance, public trust, and the domestic political landscape. For Ukraine, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Comedian Volodymyr Zelenskyy wins landslide presidential victory, promising anti-corruption reforms. Prior events and existing tensions contributed to the context. Key figures involved have included Volodymyr Zelenskyy.",
+          "full_history": "Comedian Volodymyr Zelenskyy wins landslide presidential victory, promising anti-corruption reforms.\n\n The event was classified as medium in severity and is categorized under domestic policy. Central actors included Volodymyr Zelenskyy. Since 2019-04-21, the situation has continued to evolve and to be debated in Ukraine and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "volodymyr_zelenskyy",
+          "name": "Volodymyr Zelenskyy",
+          "role": "President",
+          "birth_year": 1978,
+          "death_year": null,
+          "biography": "Volodymyr Zelenskyy was elected President of Ukraine in 2019 after a career as a comedian and actor, notably in the series 'Servant of the People.' His presidency shifted focus to anti-corruption and decentralisation before being overshadowed by the full-scale Russian invasion of February 2022. He has led Ukraine's wartime leadership, rallying domestic resistance and securing military and financial support from the West. His frequent video addresses and appearances at international summits have made him a symbol of Ukrainian defiance and have shaped global perception of the war.",
+          "achievements": [
+            "Wartime leadership",
+            "International coalition building",
+            "Democratic preservation"
+          ],
+          "related_countries": [
+            "Ukraine"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "code": "IND",
+      "capital": "New Delhi",
+      "population": 1408000000,
+      "gdp": 3740.0,
+      "government_type": "Federal Parliamentary Republic",
+      "current_events": [
+        {
+          "id": "india_economy_growth",
+          "title": "Economic Growth and Digital Transformation",
+          "date": "2023-05-10",
+          "category": "economy",
+          "description": "India becomes the world's fifth-largest economy, driven by digital innovation, manufacturing expansion, and demographic advantages.",
+          "severity": "medium",
+          "related_countries": [
+            "China",
+            "United States"
+          ],
+          "related_figures": [
+            "Narendra Modi"
+          ],
+          "impact": "The Economic Growth and Digital Transformation has influenced economic policy, markets, and living standards both nationally and in connected economies. For India, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of China, United States has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. India becomes the world's fifth-largest economy, driven by digital innovation, manufacturing expansion, and demographic advantages. Prior events and existing tensions contributed to the context. Key figures involved have included Narendra Modi.",
+          "full_history": "India becomes the world's fifth-largest economy, driven by digital innovation, manufacturing expansion, and demographic advantages.\n\n The event was classified as medium in severity and is categorized under economy. Central actors included Narendra Modi. Since 2023-05-10, the situation has continued to evolve and to be debated in India and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "india_demonetization",
+          "title": "Currency Demonetization",
+          "date": "2016-11-08",
+          "category": "economy",
+          "description": "Prime Minister Modi announces sudden withdrawal of 500 and 1,000 rupee notes to combat corruption and black money.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Narendra Modi"
+          ],
+          "impact": "The Currency Demonetization has influenced economic policy, markets, and living standards both nationally and in connected economies. For India, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Prime Minister Modi announces sudden withdrawal of 500 and 1,000 rupee notes to combat corruption and black money. Prior events and existing tensions contributed to the context. Key figures involved have included Narendra Modi.",
+          "full_history": "Prime Minister Modi announces sudden withdrawal of 500 and 1,000 rupee notes to combat corruption and black money.\n\n The event was classified as high in severity and is categorized under economy. Central actors included Narendra Modi. Since 2016-11-08, the situation has continued to evolve and to be debated in India and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "india_farmers_protests",
+          "title": "Farmers' Protests and Agricultural Reforms",
+          "date": "2020-11-26",
+          "category": "domestic_policy",
+          "description": "Massive farmer protests against agricultural reform laws lead to their eventual repeal after year-long demonstrations.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Narendra Modi"
+          ],
+          "impact": "The Farmers' Protests and Agricultural Reforms has had profound effects on governance, public trust, and the domestic political landscape. For India, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Massive farmer protests against agricultural reform laws lead to their eventual repeal after year-long demonstrations. Prior events and existing tensions contributed to the context. Key figures involved have included Narendra Modi.",
+          "full_history": "Massive farmer protests against agricultural reform laws lead to their eventual repeal after year-long demonstrations.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Narendra Modi. Since 2020-11-26, the situation has continued to evolve and to be debated in India and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "india_g20_presidency",
+          "title": "G20 Presidency",
+          "date": "2023-09-09",
+          "category": "foreign_policy",
+          "description": "India successfully hosts G20 Summit, showcasing its growing global influence and diplomatic capabilities.",
+          "severity": "medium",
+          "related_countries": [
+            "United States",
+            "China",
+            "Russia"
+          ],
+          "related_figures": [
+            "Narendra Modi"
+          ],
+          "impact": "The G20 Presidency has reshaped diplomatic relations and strategic alignments, with lasting effects on regional and global stability. For India, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of United States, China, Russia has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. India successfully hosts G20 Summit, showcasing its growing global influence and diplomatic capabilities. Prior events and existing tensions contributed to the context. Key figures involved have included Narendra Modi.",
+          "full_history": "India successfully hosts G20 Summit, showcasing its growing global influence and diplomatic capabilities.\n\n The event was classified as medium in severity and is categorized under foreign policy. Central actors included Narendra Modi. Since 2023-09-09, the situation has continued to evolve and to be debated in India and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "narendra_modi",
+          "name": "Narendra Modi",
+          "role": "Prime Minister",
+          "birth_year": 1950,
+          "death_year": null,
+          "biography": "Narendra Modi has been Prime Minister of India since 2014, leading the Bharatiya Janata Party to repeated electoral victories. He previously served as Chief Minister of Gujarat (2001–2014). His tenure has seen economic reforms such as the GST and demonetisation, large-scale digital and infrastructure initiatives, and a more assertive foreign policy that has raised India's profile in the Indo-Pacific and in groupings like the Quad. Domestically, his government has promoted Hindu nationalist themes and centralised power. India has become one of the world's fastest-growing major economies under his leadership.",
+          "achievements": [
+            "Digital India initiative",
+            "Economic modernization",
+            "G20 leadership"
+          ],
+          "related_countries": [
+            "India"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "code": "JPN",
+      "capital": "Tokyo",
+      "population": 125500000,
+      "gdp": 4940.0,
+      "government_type": "Constitutional Monarchy",
+      "current_events": [
+        {
+          "id": "japan_defense",
+          "title": "Defense Policy Transformation",
+          "date": "2022-12-16",
+          "category": "military",
+          "description": "Japan announces historic shift in defense policy, doubling military spending amid regional security concerns regarding China and North Korea.",
+          "severity": "high",
+          "related_countries": [
+            "China",
+            "North Korea",
+            "United States"
+          ],
+          "related_figures": [
+            "Fumio Kishida"
+          ],
+          "impact": "The Defense Policy Transformation has had significant security and humanitarian implications, affecting military posture and conflict dynamics. For Japan, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of China, North Korea, United States has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Japan announces historic shift in defense policy, doubling military spending amid regional security concerns regarding China and North Korea. Prior events and existing tensions contributed to the context. Key figures involved have included Fumio Kishida.",
+          "full_history": "Japan announces historic shift in defense policy, doubling military spending amid regional security concerns regarding China and North Korea.\n\n The event was classified as high in severity and is categorized under military. Central actors included Fumio Kishida. Since 2022-12-16, the situation has continued to evolve and to be debated in Japan and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "japan_abe_assassination",
+          "title": "Assassination of Shinzo Abe",
+          "date": "2022-07-08",
+          "category": "domestic_policy",
+          "description": "Former Prime Minister Shinzo Abe assassinated during campaign speech, shocking Japan and the world.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Shinzo Abe"
+          ],
+          "impact": "The Assassination of Shinzo Abe has had profound effects on governance, public trust, and the domestic political landscape. For Japan, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Former Prime Minister Shinzo Abe assassinated during campaign speech, shocking Japan and the world. Prior events and existing tensions contributed to the context. Key figures involved have included Shinzo Abe.",
+          "full_history": "Former Prime Minister Shinzo Abe assassinated during campaign speech, shocking Japan and the world.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Shinzo Abe. Since 2022-07-08, the situation has continued to evolve and to be debated in Japan and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "japan_olympics_2021",
+          "title": "Tokyo Olympics 2020 (held in 2021)",
+          "date": "2021-07-23",
+          "category": "social",
+          "description": "Japan hosts postponed Olympics amid COVID-19 pandemic with strict health protocols and no spectators.",
+          "severity": "medium",
+          "related_countries": [],
+          "related_figures": [],
+          "impact": "The Tokyo Olympics 2020 (held in 2021) has triggered broad social debate and policy responses, with lasting cultural and institutional effects. For Japan, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Japan hosts postponed Olympics amid COVID-19 pandemic with strict health protocols and no spectators. Prior events and existing tensions contributed to the context.",
+          "full_history": "Japan hosts postponed Olympics amid COVID-19 pandemic with strict health protocols and no spectators.\n\n The event was classified as medium in severity and is categorized under social. Since 2021-07-23, the situation has continued to evolve and to be debated in Japan and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "japan_emperor_abdication",
+          "title": "Emperor Akihito Abdication",
+          "date": "2019-04-30",
+          "category": "domestic_policy",
+          "description": "Emperor Akihito becomes first Japanese monarch to abdicate in 200 years, succeeded by Emperor Naruhito.",
+          "severity": "medium",
+          "related_countries": [],
+          "related_figures": [],
+          "impact": "The Emperor Akihito Abdication has had profound effects on governance, public trust, and the domestic political landscape. For Japan, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Emperor Akihito becomes first Japanese monarch to abdicate in 200 years, succeeded by Emperor Naruhito. Prior events and existing tensions contributed to the context.",
+          "full_history": "Emperor Akihito becomes first Japanese monarch to abdicate in 200 years, succeeded by Emperor Naruhito.\n\n The event was classified as medium in severity and is categorized under domestic policy. Since 2019-04-30, the situation has continued to evolve and to be debated in Japan and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "shinzo_abe",
+          "name": "Shinzo Abe",
+          "role": "Prime Minister (2012-2020)",
+          "birth_year": 1954,
+          "death_year": 2022,
+          "biography": "Shinzo Abe was Japan's longest-serving Prime Minister (2006–2007 and 2012–2020). He promoted 'Abenomics'—monetary easing, fiscal stimulus, and structural reforms—and sought to strengthen Japan's defence posture and revise the pacifist constitution. His legacy includes the Free and Open Indo-Pacific concept and closer ties with India, Australia, and the United States. He remained influential after leaving office until his assassination in July 2022 during a campaign speech in Nara. He came from a prominent political family; his grandfather Nobusuke Kishi was also Prime Minister.",
+          "achievements": [
+            "Abenomics economic policy",
+            "Security legislation",
+            "International diplomacy"
+          ],
+          "related_countries": [
+            "Japan"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brazil",
+      "name": "Brazil",
+      "code": "BRA",
+      "capital": "Brasília",
+      "population": 215300000,
+      "gdp": 2090.0,
+      "government_type": "Federal Presidential Republic",
+      "current_events": [
+        {
+          "id": "amazon_deforestation",
+          "title": "Amazon Rainforest Protection Policies",
+          "date": "2023-01-20",
+          "category": "social",
+          "description": "Brazil reverses course on environmental policy with new administration, pledging to reduce Amazon deforestation and restore environmental protections.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Luiz Inacio Lula da Silva"
+          ],
+          "impact": "The Amazon Rainforest Protection Policies has triggered broad social debate and policy responses, with lasting cultural and institutional effects. For Brazil, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Brazil reverses course on environmental policy with new administration, pledging to reduce Amazon deforestation and restore environmental protections. Prior events and existing tensions contributed to the context. Key figures involved have included Luiz Inacio Lula da Silva.",
+          "full_history": "Brazil reverses course on environmental policy with new administration, pledging to reduce Amazon deforestation and restore environmental protections.\n\n The event was classified as high in severity and is categorized under social. Central actors included Luiz Inacio Lula da Silva. Since 2023-01-20, the situation has continued to evolve and to be debated in Brazil and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "brazil_impeachment_2016",
+          "title": "Dilma Rousseff Impeachment",
+          "date": "2016-08-31",
+          "category": "domestic_policy",
+          "description": "President Dilma Rousseff impeached by Senate on charges of fiscal mismanagement, leading to Michel Temer's presidency.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [],
+          "impact": "The Dilma Rousseff Impeachment has had profound effects on governance, public trust, and the domestic political landscape. For Brazil, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. President Dilma Rousseff impeached by Senate on charges of fiscal mismanagement, leading to Michel Temer's presidency. Prior events and existing tensions contributed to the context.",
+          "full_history": "President Dilma Rousseff impeached by Senate on charges of fiscal mismanagement, leading to Michel Temer's presidency.\n\n The event was classified as high in severity and is categorized under domestic policy. Since 2016-08-31, the situation has continued to evolve and to be debated in Brazil and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "brazil_bolsonaro_election",
+          "title": "Jair Bolsonaro Election",
+          "date": "2018-10-28",
+          "category": "domestic_policy",
+          "description": "Far-right candidate Jair Bolsonaro wins presidential election, promising tough stance on crime and economic reforms.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [],
+          "impact": "The Jair Bolsonaro Election has had profound effects on governance, public trust, and the domestic political landscape. For Brazil, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Far-right candidate Jair Bolsonaro wins presidential election, promising tough stance on crime and economic reforms. Prior events and existing tensions contributed to the context.",
+          "full_history": "Far-right candidate Jair Bolsonaro wins presidential election, promising tough stance on crime and economic reforms.\n\n The event was classified as high in severity and is categorized under domestic policy. Since 2018-10-28, the situation has continued to evolve and to be debated in Brazil and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "brazil_lula_return",
+          "title": "Lula's Political Comeback",
+          "date": "2022-10-30",
+          "category": "domestic_policy",
+          "description": "Luiz Inácio Lula da Silva defeats Bolsonaro in close election, marking dramatic political comeback after imprisonment.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Luiz Inacio Lula da Silva"
+          ],
+          "impact": "The Lula's Political Comeback has had profound effects on governance, public trust, and the domestic political landscape. For Brazil, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Luiz Inácio Lula da Silva defeats Bolsonaro in close election, marking dramatic political comeback after imprisonment. Prior events and existing tensions contributed to the context. Key figures involved have included Luiz Inacio Lula da Silva.",
+          "full_history": "Luiz Inácio Lula da Silva defeats Bolsonaro in close election, marking dramatic political comeback after imprisonment.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Luiz Inacio Lula da Silva. Since 2022-10-30, the situation has continued to evolve and to be debated in Brazil and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "lula",
+          "name": "Luiz Inacio Lula da Silva",
+          "role": "President",
+          "birth_year": 1945,
+          "death_year": null,
+          "biography": "Luiz Inácio Lula da Silva (Lula) returned to the Brazilian presidency in January 2023 after previously serving from 2003 to 2010. A former trade union leader and co-founder of the Workers' Party, he is known for Bolsa Família and other social programmes that reduced poverty and inequality. His second presidency has emphasised poverty reduction, environmental protection—especially of the Amazon—and a pragmatic foreign policy. He was imprisoned on corruption charges (later annulled) and did not run in 2018; he defeated incumbent Jair Bolsonaro in the polarised 2022 election.",
+          "achievements": [
+            "Poverty reduction programs",
+            "Amazon protection",
+            "Social welfare expansion"
+          ],
+          "related_countries": [
+            "Brazil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "name": "Israel",
+      "code": "ISR",
+      "capital": "Jerusalem",
+      "population": 9557000,
+      "gdp": 525.0,
+      "government_type": "Parliamentary Republic",
+      "current_events": [
+        {
+          "id": "israel_judicial_reform",
+          "title": "Judicial Reform Controversy",
+          "date": "2023-03-27",
+          "category": "domestic_policy",
+          "description": "Proposed judicial reforms spark massive protests and international concern about checks and balances in Israeli democracy.",
+          "severity": "high",
+          "related_countries": [
+            "United States"
+          ],
+          "related_figures": [
+            "Benjamin Netanyahu"
+          ],
+          "impact": "The Judicial Reform Controversy has had profound effects on governance, public trust, and the domestic political landscape. For Israel, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of United States has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Proposed judicial reforms spark massive protests and international concern about checks and balances in Israeli democracy. Prior events and existing tensions contributed to the context. Key figures involved have included Benjamin Netanyahu.",
+          "full_history": "Proposed judicial reforms spark massive protests and international concern about checks and balances in Israeli democracy.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Benjamin Netanyahu. Since 2023-03-27, the situation has continued to evolve and to be debated in Israel and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "israel_abraham_accords",
+          "title": "Abraham Accords Normalization",
+          "date": "2020-09-15",
+          "category": "foreign_policy",
+          "description": "Israel signs historic normalization agreements with UAE and Bahrain, transforming Middle East diplomacy.",
+          "severity": "high",
+          "related_countries": [
+            "United Arab Emirates",
+            "Bahrain",
+            "United States"
+          ],
+          "related_figures": [
+            "Benjamin Netanyahu"
+          ],
+          "impact": "The Abraham Accords Normalization has reshaped diplomatic relations and strategic alignments, with lasting effects on regional and global stability. For Israel, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of United Arab Emirates, Bahrain, United States has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Israel signs historic normalization agreements with UAE and Bahrain, transforming Middle East diplomacy. Prior events and existing tensions contributed to the context. Key figures involved have included Benjamin Netanyahu.",
+          "full_history": "Israel signs historic normalization agreements with UAE and Bahrain, transforming Middle East diplomacy.\n\n The event was classified as high in severity and is categorized under foreign policy. Central actors included Benjamin Netanyahu. Since 2020-09-15, the situation has continued to evolve and to be debated in Israel and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "israel_gaza_conflict_2021",
+          "title": "Gaza Conflict 2021",
+          "date": "2021-05-10",
+          "category": "military",
+          "description": "11-day conflict between Israel and Hamas results in hundreds of casualties and international mediation efforts.",
+          "severity": "high",
+          "related_countries": [
+            "Palestine"
+          ],
+          "related_figures": [],
+          "impact": "The Gaza Conflict 2021 has had significant security and humanitarian implications, affecting military posture and conflict dynamics. For Israel, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of Palestine has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. 11-day conflict between Israel and Hamas results in hundreds of casualties and international mediation efforts. Prior events and existing tensions contributed to the context.",
+          "full_history": "11-day conflict between Israel and Hamas results in hundreds of casualties and international mediation efforts.\n\n The event was classified as high in severity and is categorized under military. Since 2021-05-10, the situation has continued to evolve and to be debated in Israel and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "israel_netanyahu_trial",
+          "title": "Netanyahu Corruption Trial",
+          "date": "2020-05-24",
+          "category": "domestic_policy",
+          "description": "Prime Minister Netanyahu goes on trial for corruption charges while still in office, unprecedented in Israeli history.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Benjamin Netanyahu"
+          ],
+          "impact": "The Netanyahu Corruption Trial has had profound effects on governance, public trust, and the domestic political landscape. For Israel, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Prime Minister Netanyahu goes on trial for corruption charges while still in office, unprecedented in Israeli history. Prior events and existing tensions contributed to the context. Key figures involved have included Benjamin Netanyahu.",
+          "full_history": "Prime Minister Netanyahu goes on trial for corruption charges while still in office, unprecedented in Israeli history.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Benjamin Netanyahu. Since 2020-05-24, the situation has continued to evolve and to be debated in Israel and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "benjamin_netanyahu",
+          "name": "Benjamin Netanyahu",
+          "role": "Prime Minister",
+          "birth_year": 1949,
+          "death_year": null,
+          "biography": "Benjamin Netanyahu is Israel's longest-serving Prime Minister, having held the office multiple times since the 1990s and continuously from 2009 to 2021 and again from late 2022. A former ambassador and finance minister, he is known for security-focused policies, settlement support, and a hard line toward Iran and Hamas. His tenure has seen normalisation deals with Arab states (Abraham Accords), repeated conflicts in Gaza, and deep domestic divisions over judicial reform and the conduct of the war. He leads the Likud party and has shaped Israel's right-wing and nationalist politics for decades.",
+          "achievements": [
+            "Economic liberalization",
+            "Abraham Accords",
+            "Security policies"
+          ],
+          "related_countries": [
+            "Israel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iran",
+      "name": "Iran",
+      "code": "IRN",
+      "capital": "Tehran",
+      "population": 88550000,
+      "gdp": 389.0,
+      "government_type": "Islamic Republic",
+      "current_events": [
+        {
+          "id": "iran_protests",
+          "title": "Women's Rights Protests",
+          "date": "2022-09-16",
+          "category": "social",
+          "description": "Widespread protests following death of Mahsa Amini challenge mandatory hijab laws and government authority, marking significant social movement.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [],
+          "impact": "The Women's Rights Protests has triggered broad social debate and policy responses, with lasting cultural and institutional effects. For Iran, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Widespread protests following death of Mahsa Amini challenge mandatory hijab laws and government authority, marking significant social movement. Prior events and existing tensions contributed to the context.",
+          "full_history": "Widespread protests following death of Mahsa Amini challenge mandatory hijab laws and government authority, marking significant social movement.\n\n The event was classified as high in severity and is categorized under social. Since 2022-09-16, the situation has continued to evolve and to be debated in Iran and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "iran_nuclear_deal",
+          "title": "JCPOA Nuclear Agreement",
+          "date": "2015-07-14",
+          "category": "foreign_policy",
+          "description": "Iran signs historic nuclear deal with world powers, agreeing to limit nuclear program in exchange for sanctions relief.",
+          "severity": "high",
+          "related_countries": [
+            "United States",
+            "Russia",
+            "China",
+            "France",
+            "United Kingdom",
+            "Germany"
+          ],
+          "related_figures": [],
+          "impact": "The JCPOA Nuclear Agreement has reshaped diplomatic relations and strategic alignments, with lasting effects on regional and global stability. For Iran, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of United States, Russia, China, France, United Kingdom, Germany has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Iran signs historic nuclear deal with world powers, agreeing to limit nuclear program in exchange for sanctions relief. Prior events and existing tensions contributed to the context.",
+          "full_history": "Iran signs historic nuclear deal with world powers, agreeing to limit nuclear program in exchange for sanctions relief.\n\n The event was classified as high in severity and is categorized under foreign policy. Since 2015-07-14, the situation has continued to evolve and to be debated in Iran and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "iran_us_withdrawal",
+          "title": "US Withdraws from Nuclear Deal",
+          "date": "2018-05-08",
+          "category": "foreign_policy",
+          "description": "Trump administration withdraws from JCPOA and reimplements sanctions, escalating tensions with Iran.",
+          "severity": "high",
+          "related_countries": [
+            "United States"
+          ],
+          "related_figures": [],
+          "impact": "The US Withdraws from Nuclear Deal has reshaped diplomatic relations and strategic alignments, with lasting effects on regional and global stability. For Iran, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of United States has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Trump administration withdraws from JCPOA and reimplements sanctions, escalating tensions with Iran. Prior events and existing tensions contributed to the context.",
+          "full_history": "Trump administration withdraws from JCPOA and reimplements sanctions, escalating tensions with Iran.\n\n The event was classified as high in severity and is categorized under foreign policy. Since 2018-05-08, the situation has continued to evolve and to be debated in Iran and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "iran_soleimani_killing",
+          "title": "Assassination of Qasem Soleimani",
+          "date": "2020-01-03",
+          "category": "military",
+          "description": "US drone strike kills Iranian General Qasem Soleimani in Iraq, bringing US and Iran to brink of war.",
+          "severity": "high",
+          "related_countries": [
+            "United States",
+            "Iraq"
+          ],
+          "related_figures": [],
+          "impact": "The Assassination of Qasem Soleimani has had significant security and humanitarian implications, affecting military posture and conflict dynamics. For Iran, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of United States, Iraq has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. US drone strike kills Iranian General Qasem Soleimani in Iraq, bringing US and Iran to brink of war. Prior events and existing tensions contributed to the context.",
+          "full_history": "US drone strike kills Iranian General Qasem Soleimani in Iraq, bringing US and Iran to brink of war.\n\n The event was classified as high in severity and is categorized under military. Since 2020-01-03, the situation has continued to evolve and to be debated in Iran and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "ali_khamenei",
+          "name": "Ali Khamenei",
+          "role": "Supreme Leader",
+          "birth_year": 1939,
+          "death_year": null,
+          "biography": "Ali Khamenei has been Iran's Supreme Leader since 1989, succeeding Ruhollah Khomeini. As the highest political and religious authority, he controls the armed forces, judiciary, and key institutions and has final say on foreign and nuclear policy. His tenure has seen continued confrontation with the West, support for regional proxies, and crackdowns on dissent, including the suppression of the 2009 Green Movement and the 2022 protests. He was President of Iran from 1981 to 1989. His conservative ideology and security-first approach have defined Iran's direction for over three decades.",
+          "achievements": [
+            "Nuclear program development",
+            "Regional influence expansion"
+          ],
+          "related_countries": [
+            "Iran"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "name": "Turkey",
+      "code": "TUR",
+      "capital": "Ankara",
+      "population": 85340000,
+      "gdp": 906.0,
+      "government_type": "Presidential Republic",
+      "current_events": [
+        {
+          "id": "turkey_earthquake",
+          "title": "2023 Earthquake Response",
+          "date": "2023-02-06",
+          "category": "domestic_policy",
+          "description": "Devastating earthquakes kill over 50,000 people, prompting major reconstruction efforts and political debates about building standards.",
+          "severity": "high",
+          "related_countries": [
+            "Syria"
+          ],
+          "related_figures": [
+            "Recep Tayyip Erdogan"
+          ],
+          "impact": "The 2023 Earthquake Response has had profound effects on governance, public trust, and the domestic political landscape. For Turkey, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of Syria has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Devastating earthquakes kill over 50,000 people, prompting major reconstruction efforts and political debates about building standards. Prior events and existing tensions contributed to the context. Key figures involved have included Recep Tayyip Erdogan.",
+          "full_history": "Devastating earthquakes kill over 50,000 people, prompting major reconstruction efforts and political debates about building standards.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Recep Tayyip Erdogan. Since 2023-02-06, the situation has continued to evolve and to be debated in Turkey and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "turkey_coup_attempt",
+          "title": "2016 Coup Attempt",
+          "date": "2016-07-15",
+          "category": "military",
+          "description": "Failed military coup attempt leads to widespread purges and state of emergency declaration.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Recep Tayyip Erdogan"
+          ],
+          "impact": "The 2016 Coup Attempt has had significant security and humanitarian implications, affecting military posture and conflict dynamics. For Turkey, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Failed military coup attempt leads to widespread purges and state of emergency declaration. Prior events and existing tensions contributed to the context. Key figures involved have included Recep Tayyip Erdogan.",
+          "full_history": "Failed military coup attempt leads to widespread purges and state of emergency declaration.\n\n The event was classified as high in severity and is categorized under military. Central actors included Recep Tayyip Erdogan. Since 2016-07-15, the situation has continued to evolve and to be debated in Turkey and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "turkey_syria_operations",
+          "title": "Syrian Military Operations",
+          "date": "2019-10-09",
+          "category": "military",
+          "description": "Turkey launches military operations in northern Syria against Kurdish forces.",
+          "severity": "high",
+          "related_countries": [
+            "Syria",
+            "United States"
+          ],
+          "related_figures": [
+            "Recep Tayyip Erdogan"
+          ],
+          "impact": "The Syrian Military Operations has had significant security and humanitarian implications, affecting military posture and conflict dynamics. For Turkey, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of Syria, United States has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Turkey launches military operations in northern Syria against Kurdish forces. Prior events and existing tensions contributed to the context. Key figures involved have included Recep Tayyip Erdogan.",
+          "full_history": "Turkey launches military operations in northern Syria against Kurdish forces.\n\n The event was classified as high in severity and is categorized under military. Central actors included Recep Tayyip Erdogan. Since 2019-10-09, the situation has continued to evolve and to be debated in Turkey and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "turkey_erdogan_reelection",
+          "title": "Erdogan Re-election 2023",
+          "date": "2023-05-28",
+          "category": "domestic_policy",
+          "description": "President Erdogan wins runoff election extending his rule despite economic challenges and opposition unity.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Recep Tayyip Erdogan"
+          ],
+          "impact": "The Erdogan Re-election 2023 has had profound effects on governance, public trust, and the domestic political landscape. For Turkey, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. President Erdogan wins runoff election extending his rule despite economic challenges and opposition unity. Prior events and existing tensions contributed to the context. Key figures involved have included Recep Tayyip Erdogan.",
+          "full_history": "President Erdogan wins runoff election extending his rule despite economic challenges and opposition unity.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Recep Tayyip Erdogan. Since 2023-05-28, the situation has continued to evolve and to be debated in Turkey and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "erdogan",
+          "name": "Recep Tayyip Erdogan",
+          "role": "President",
+          "birth_year": 1954,
+          "death_year": null,
+          "biography": "Recep Tayyip Erdogan has dominated Turkish politics as Prime Minister (2003–2014) and then President (2014–present). He rose through Islamist and conservative circles and transformed Turkey with economic growth, infrastructure, and a shift toward presidential rule after a 2017 referendum. His foreign policy has been assertive in the Middle East, Eastern Mediterranean, and Caucasus, and relations with the EU and the United States have been strained over human rights and regional disputes. His rule has been marked by crackdowns after the 2016 coup attempt and growing control over media and the judiciary.",
+          "achievements": [
+            "Constitutional reforms",
+            "Infrastructure development",
+            "Regional diplomacy"
+          ],
+          "related_countries": [
+            "Turkey"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "south_korea",
+      "name": "South Korea",
+      "code": "KOR",
+      "capital": "Seoul",
+      "population": 51780000,
+      "gdp": 1810.0,
+      "government_type": "Presidential Republic",
+      "current_events": [
+        {
+          "id": "korea_north_tensions",
+          "title": "North Korea Nuclear Tensions",
+          "date": "2023-09-13",
+          "category": "military",
+          "description": "Heightened tensions as North Korea accelerates nuclear and missile programs, prompting South Korea to strengthen defense cooperation with US and Japan.",
+          "severity": "high",
+          "related_countries": [
+            "North Korea",
+            "United States",
+            "Japan"
+          ],
+          "related_figures": [],
+          "impact": "The North Korea Nuclear Tensions has had significant security and humanitarian implications, affecting military posture and conflict dynamics. For South Korea, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of North Korea, United States, Japan has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Heightened tensions as North Korea accelerates nuclear and missile programs, prompting South Korea to strengthen defense cooperation with US and Japan. Prior events and existing tensions contributed to the context.",
+          "full_history": "Heightened tensions as North Korea accelerates nuclear and missile programs, prompting South Korea to strengthen defense cooperation with US and Japan.\n\n The event was classified as high in severity and is categorized under military. Since 2023-09-13, the situation has continued to evolve and to be debated in South Korea and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "sk_impeachment_2017",
+          "title": "Park Geun-hye Impeachment",
+          "date": "2017-03-10",
+          "category": "domestic_policy",
+          "description": "President Park Geun-hye impeached and removed from office in corruption scandal.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [],
+          "impact": "The Park Geun-hye Impeachment has had profound effects on governance, public trust, and the domestic political landscape. For South Korea, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. President Park Geun-hye impeached and removed from office in corruption scandal. Prior events and existing tensions contributed to the context.",
+          "full_history": "President Park Geun-hye impeached and removed from office in corruption scandal.\n\n The event was classified as high in severity and is categorized under domestic policy. Since 2017-03-10, the situation has continued to evolve and to be debated in South Korea and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "sk_north_summit",
+          "title": "Inter-Korean Summit 2018",
+          "date": "2018-04-27",
+          "category": "foreign_policy",
+          "description": "Historic summit between North and South Korean leaders raises hopes for peace on peninsula.",
+          "severity": "high",
+          "related_countries": [
+            "North Korea",
+            "United States"
+          ],
+          "related_figures": [
+            "Moon Jae-in"
+          ],
+          "impact": "The Inter-Korean Summit 2018 has reshaped diplomatic relations and strategic alignments, with lasting effects on regional and global stability. For South Korea, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of North Korea, United States has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Historic summit between North and South Korean leaders raises hopes for peace on peninsula. Prior events and existing tensions contributed to the context. Key figures involved have included Moon Jae-in.",
+          "full_history": "Historic summit between North and South Korean leaders raises hopes for peace on peninsula.\n\n The event was classified as high in severity and is categorized under foreign policy. Central actors included Moon Jae-in. Since 2018-04-27, the situation has continued to evolve and to be debated in South Korea and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "sk_covid_response",
+          "title": "COVID-19 Response Success",
+          "date": "2020-03-15",
+          "category": "domestic_policy",
+          "description": "South Korea's effective pandemic response through testing and contact tracing becomes global model.",
+          "severity": "medium",
+          "related_countries": [],
+          "related_figures": [],
+          "impact": "The COVID-19 Response Success has had profound effects on governance, public trust, and the domestic political landscape. For South Korea, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. South Korea's effective pandemic response through testing and contact tracing becomes global model. Prior events and existing tensions contributed to the context.",
+          "full_history": "South Korea's effective pandemic response through testing and contact tracing becomes global model.\n\n The event was classified as medium in severity and is categorized under domestic policy. Since 2020-03-15, the situation has continued to evolve and to be debated in South Korea and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "moon_jae_in",
+          "name": "Moon Jae-in",
+          "role": "President (2017-2022)",
+          "birth_year": 1953,
+          "death_year": null,
+          "biography": "Moon Jae-in served as President of South Korea from 2017 to 2022. A former human rights lawyer and chief of staff to President Roh Moo-hyun, he pursued engagement with North Korea—including summits with Kim Jong-un—and sought peace and denuclearisation on the peninsula. His administration strengthened democratic institutions and addressed historical injustices. Relations with Japan remained difficult over wartime issues. His progressive agenda and dialogue-first approach contrasted with the more hawkish stance of his successor, Yoon Suk-yeol.",
+          "achievements": [
+            "Inter-Korean summits",
+            "Economic reforms",
+            "COVID response"
+          ],
+          "related_countries": [
+            "South Korea"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canada",
+      "name": "Canada",
+      "code": "CAN",
+      "capital": "Ottawa",
+      "population": 38930000,
+      "gdp": 2140.0,
+      "government_type": "Federal Parliamentary Democracy",
+      "current_events": [
+        {
+          "id": "canada_indigenous",
+          "title": "Indigenous Reconciliation Efforts",
+          "date": "2023-06-21",
+          "category": "social",
+          "description": "Canada continues efforts toward reconciliation with Indigenous peoples following residential school revelations and ongoing treaty negotiations.",
+          "severity": "medium",
+          "related_countries": [],
+          "related_figures": [
+            "Justin Trudeau"
+          ],
+          "impact": "The Indigenous Reconciliation Efforts has triggered broad social debate and policy responses, with lasting cultural and institutional effects. For Canada, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Canada continues efforts toward reconciliation with Indigenous peoples following residential school revelations and ongoing treaty negotiations. Prior events and existing tensions contributed to the context. Key figures involved have included Justin Trudeau.",
+          "full_history": "Canada continues efforts toward reconciliation with Indigenous peoples following residential school revelations and ongoing treaty negotiations.\n\n The event was classified as medium in severity and is categorized under social. Central actors included Justin Trudeau. Since 2023-06-21, the situation has continued to evolve and to be debated in Canada and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "canada_legalization",
+          "title": "Cannabis Legalization",
+          "date": "2018-10-17",
+          "category": "domestic_policy",
+          "description": "Canada becomes second country to legalize recreational cannabis nationwide.",
+          "severity": "medium",
+          "related_countries": [],
+          "related_figures": [
+            "Justin Trudeau"
+          ],
+          "impact": "The Cannabis Legalization has had profound effects on governance, public trust, and the domestic political landscape. For Canada, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Canada becomes second country to legalize recreational cannabis nationwide. Prior events and existing tensions contributed to the context. Key figures involved have included Justin Trudeau.",
+          "full_history": "Canada becomes second country to legalize recreational cannabis nationwide.\n\n The event was classified as medium in severity and is categorized under domestic policy. Central actors included Justin Trudeau. Since 2018-10-17, the situation has continued to evolve and to be debated in Canada and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "canada_truckers_protest",
+          "title": "Freedom Convoy Protests",
+          "date": "2022-01-29",
+          "category": "domestic_policy",
+          "description": "Trucker protests against COVID mandates paralyze Ottawa, leading to emergency measures.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Justin Trudeau"
+          ],
+          "impact": "The Freedom Convoy Protests has had profound effects on governance, public trust, and the domestic political landscape. For Canada, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Trucker protests against COVID mandates paralyze Ottawa, leading to emergency measures. Prior events and existing tensions contributed to the context. Key figures involved have included Justin Trudeau.",
+          "full_history": "Trucker protests against COVID mandates paralyze Ottawa, leading to emergency measures.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Justin Trudeau. Since 2022-01-29, the situation has continued to evolve and to be debated in Canada and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "canada_election_2021",
+          "title": "Federal Election 2021",
+          "date": "2021-09-20",
+          "category": "domestic_policy",
+          "description": "Trudeau's Liberals win minority government in snap election amid pandemic.",
+          "severity": "medium",
+          "related_countries": [],
+          "related_figures": [
+            "Justin Trudeau"
+          ],
+          "impact": "The Federal Election 2021 has had profound effects on governance, public trust, and the domestic political landscape. For Canada, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Trudeau's Liberals win minority government in snap election amid pandemic. Prior events and existing tensions contributed to the context. Key figures involved have included Justin Trudeau.",
+          "full_history": "Trudeau's Liberals win minority government in snap election amid pandemic.\n\n The event was classified as medium in severity and is categorized under domestic policy. Central actors included Justin Trudeau. Since 2021-09-20, the situation has continued to evolve and to be debated in Canada and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "justin_trudeau",
+          "name": "Justin Trudeau",
+          "role": "Prime Minister",
+          "birth_year": 1971,
+          "death_year": null,
+          "biography": "Justin Trudeau has been Prime Minister of Canada since 2015, leading the Liberal Party to three election wins. He has promoted progressive policies including carbon pricing, legalisation of cannabis, and diversity and reconciliation initiatives. His tenure has seen tensions with the United States over trade, close alignment on Ukraine and NATO, and domestic debates over energy, housing, and immigration. He is the son of former Prime Minister Pierre Trudeau and has positioned Canada as a liberal, multilateral actor on the world stage while facing criticism over ethics controversies and handling of protests.",
+          "achievements": [
+            "Climate leadership",
+            "Indigenous reconciliation",
+            "Immigration reform"
+          ],
+          "related_countries": [
+            "Canada"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "australia",
+      "name": "Australia",
+      "code": "AUS",
+      "capital": "Canberra",
+      "population": 26140000,
+      "gdp": 1680.0,
+      "government_type": "Federal Parliamentary Democracy",
+      "current_events": [
+        {
+          "id": "aus_china_relations",
+          "title": "China Relations Stabilization",
+          "date": "2023-11-06",
+          "category": "foreign_policy",
+          "description": "Australia works to stabilize relations with China after years of tensions, balancing economic interests with security concerns.",
+          "severity": "medium",
+          "related_countries": [
+            "China",
+            "United States"
+          ],
+          "related_figures": [],
+          "impact": "The China Relations Stabilization has reshaped diplomatic relations and strategic alignments, with lasting effects on regional and global stability. For Australia, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of China, United States has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Australia works to stabilize relations with China after years of tensions, balancing economic interests with security concerns. Prior events and existing tensions contributed to the context.",
+          "full_history": "Australia works to stabilize relations with China after years of tensions, balancing economic interests with security concerns.\n\n The event was classified as medium in severity and is categorized under foreign policy. Since 2023-11-06, the situation has continued to evolve and to be debated in Australia and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "australia_bushfires",
+          "title": "Black Summer Bushfires",
+          "date": "2019-12-01",
+          "category": "social",
+          "description": "Catastrophic bushfire season burns 18 million hectares, killing billions of animals and highlighting climate crisis.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Scott Morrison"
+          ],
+          "impact": "The Black Summer Bushfires has triggered broad social debate and policy responses, with lasting cultural and institutional effects. For Australia, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Catastrophic bushfire season burns 18 million hectares, killing billions of animals and highlighting climate crisis. Prior events and existing tensions contributed to the context. Key figures involved have included Scott Morrison.",
+          "full_history": "Catastrophic bushfire season burns 18 million hectares, killing billions of animals and highlighting climate crisis.\n\n The event was classified as high in severity and is categorized under social. Central actors included Scott Morrison. Since 2019-12-01, the situation has continued to evolve and to be debated in Australia and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "australia_aukus",
+          "title": "AUKUS Security Pact",
+          "date": "2021-09-15",
+          "category": "foreign_policy",
+          "description": "Australia, UK, US form trilateral security partnership for Indo-Pacific, includes nuclear submarine deal.",
+          "severity": "high",
+          "related_countries": [
+            "United States",
+            "United Kingdom",
+            "China"
+          ],
+          "related_figures": [],
+          "impact": "The AUKUS Security Pact has reshaped diplomatic relations and strategic alignments, with lasting effects on regional and global stability. For Australia, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of United States, United Kingdom, China has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Australia, UK, US form trilateral security partnership for Indo-Pacific, includes nuclear submarine deal. Prior events and existing tensions contributed to the context.",
+          "full_history": "Australia, UK, US form trilateral security partnership for Indo-Pacific, includes nuclear submarine deal.\n\n The event was classified as high in severity and is categorized under foreign policy. Since 2021-09-15, the situation has continued to evolve and to be debated in Australia and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "australia_labor_victory",
+          "title": "Labor Party Electoral Victory",
+          "date": "2022-05-21",
+          "category": "domestic_policy",
+          "description": "Anthony Albanese leads Labor to victory, ending 9 years of conservative government.",
+          "severity": "medium",
+          "related_countries": [],
+          "related_figures": [],
+          "impact": "The Labor Party Electoral Victory has had profound effects on governance, public trust, and the domestic political landscape. For Australia, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Anthony Albanese leads Labor to victory, ending 9 years of conservative government. Prior events and existing tensions contributed to the context.",
+          "full_history": "Anthony Albanese leads Labor to victory, ending 9 years of conservative government.\n\n The event was classified as medium in severity and is categorized under domestic policy. Since 2022-05-21, the situation has continued to evolve and to be debated in Australia and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "scott_morrison",
+          "name": "Scott Morrison",
+          "role": "Prime Minister (2018-2022)",
+          "birth_year": 1968,
+          "death_year": null,
+          "biography": "Scott Morrison was Prime Minister of Australia from 2018 to 2022, leading the Liberal–National Coalition. His tenure was dominated by the COVID-19 pandemic, bushfires, and a sharp deterioration in Australia–China relations that led to trade disputes and a stronger focus on the Quad and AUKUS. He pursued conservative economic and climate policies and was criticised for his handling of crises and for holding multiple ministerial portfolios in secret. He lost the 2022 election to Labor under Anthony Albanese. He had previously served as Treasurer and in other cabinet roles.",
+          "achievements": [
+            "COVID pandemic management",
+            "AUKUS security pact"
+          ],
+          "related_countries": [
+            "Australia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kazakhstan",
+      "name": "Kazakhstan",
+      "code": "KAZ",
+      "capital": "Astana",
+      "population": 19620000,
+      "gdp": 225.0,
+      "government_type": "Presidential Republic",
+      "current_events": [
+        {
+          "id": "kaz_political_reforms",
+          "title": "Political Reforms and Constitutional Changes",
+          "date": "2022-06-05",
+          "category": "domestic_policy",
+          "description": "Kazakhstan implements significant constitutional reforms following January 2022 protests, including limiting presidential powers and strengthening parliament.",
+          "severity": "high",
+          "related_countries": [
+            "Russia"
+          ],
+          "related_figures": [
+            "Kassym-Jomart Tokayev"
+          ],
+          "impact": "The reforms represent Kazakhstan's most significant political transformation since independence, reshaping the balance of power and moving toward a more pluralistic political system. Changes include limiting presidential terms, reducing presidential authority, and enhancing parliamentary oversight.",
+          "background": "The reforms were triggered by violent protests in January 2022 over fuel price increases that quickly evolved into broader demands for political change. The unrest led to a major rethinking of Kazakhstan's political structure and the role of its first president, Nursultan Nazarbayev.",
+          "developments": [
+            {
+              "date": "2022-01-05",
+              "title": "Nationwide Protests Erupt",
+              "description": "Mass protests begin in western Kazakhstan over fuel prices, quickly spreading nationwide with calls for political reforms."
+            },
+            {
+              "date": "2022-03-16",
+              "title": "Reform Package Announced",
+              "description": "President Tokayev announces comprehensive political reforms including constitutional amendments and redistribution of powers."
+            },
+            {
+              "date": "2022-06-05",
+              "title": "Constitutional Referendum",
+              "description": "Kazakhstanis vote on constitutional amendments with over 77% approval, fundamentally changing the political system."
+            }
+          ],
+          "full_history": "Kazakhstan implements significant constitutional reforms following January 2022 protests, including limiting presidential powers and strengthening parliament.\n\n The event was classified as high in severity and is categorized under domestic policy. Central actors included Kassym-Jomart Tokayev. Since 2022-06-05, the situation has continued to evolve and to be debated in Kazakhstan and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "kaz_russia_relations",
+          "title": "Balancing Act Between Russia and the West",
+          "date": "2023-02-15",
+          "category": "foreign_policy",
+          "description": "Kazakhstan navigates complex geopolitical position following Russia's invasion of Ukraine, maintaining relationships with both Russia and Western nations.",
+          "severity": "high",
+          "related_countries": [
+            "Russia",
+            "China",
+            "United States"
+          ],
+          "related_figures": [
+            "Kassym-Jomart Tokayev"
+          ],
+          "impact": "Kazakhstan's diplomatic balancing act has significant implications for Central Asian geopolitics and the country's economic development. The country seeks to maintain its strategic autonomy while managing its long border with Russia and its membership in Russia-led organizations.",
+          "background": "As a former Soviet republic with a 7,600 km border with Russia and significant economic ties, Kazakhstan faces difficult choices in the post-2022 geopolitical environment. The country is also pursuing a multi-vector foreign policy to diversify its international partnerships.",
+          "full_history": "Kazakhstan navigates complex geopolitical position following Russia's invasion of Ukraine, maintaining relationships with both Russia and Western nations.\n\n The event was classified as high in severity and is categorized under foreign policy. Central actors included Kassym-Jomart Tokayev. Since 2023-02-15, the situation has continued to evolve and to be debated in Kazakhstan and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        },
+        {
+          "id": "kaz_economic_diversification",
+          "title": "Economic Diversification Beyond Oil",
+          "date": "2023-09-20",
+          "category": "economy",
+          "description": "Kazakhstan pursues ambitious economic diversification strategy to reduce dependence on oil and gas exports, focusing on technology, agriculture, and manufacturing.",
+          "severity": "medium",
+          "related_countries": [
+            "China"
+          ],
+          "related_figures": [
+            "Kassym-Jomart Tokayev"
+          ],
+          "impact": "The Economic Diversification Beyond Oil has influenced economic policy, markets, and living standards both nationally and in connected economies. For Kazakhstan, the consequences include shifts in public opinion, policy priorities, and in some cases institutional reform. Media and academic analysis continue to evaluate its long-term significance. The involvement of China has added an international dimension.",
+          "background": "This development did not occur in isolation. Broader trends in politics, the economy, and international relations created the conditions in which it unfolded. Kazakhstan pursues ambitious economic diversification strategy to reduce dependence on oil and gas exports, focusing on technology, agriculture, and manufacturing. Prior events and existing tensions contributed to the context. Key figures involved have included Kassym-Jomart Tokayev.",
+          "full_history": "Kazakhstan pursues ambitious economic diversification strategy to reduce dependence on oil and gas exports, focusing on technology, agriculture, and manufacturing.\n\n The event was classified as medium in severity and is categorized under economy. Central actors included Kassym-Jomart Tokayev. Since 2023-09-20, the situation has continued to evolve and to be debated in Kazakhstan and internationally.\n\nA full account of this episode requires attention to local and global factors, as well as to the decisions of governments and key individuals at the time."
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "kassym_jomart_tokayev",
+          "name": "Kassym-Jomart Tokayev",
+          "role": "President",
+          "birth_year": 1953,
+          "death_year": null,
+          "biography": "Kassym-Jomart Tokayev became president of Kazakhstan in 2019, succeeding Nursultan Nazarbayev who had led the country since independence. A career diplomat and fluent speaker of multiple languages, Tokayev has pursued gradual political reforms while maintaining stability. Following the 2022 protests, he accelerated democratic reforms and reduced the influence of his predecessor.",
+          "achievements": [
+            "Constitutional reforms 2022",
+            "Political liberalization",
+            "Multi-vector foreign policy",
+            "Economic diversification initiatives"
+          ],
+          "related_countries": [
+            "Kazakhstan"
+          ]
+        },
+        {
+          "id": "nursultan_nazarbayev",
+          "name": "Nursultan Nazarbayev",
+          "role": "First President (1991-2019)",
+          "birth_year": 1940,
+          "death_year": null,
+          "biography": "Nursultan Nazarbayev led Kazakhstan from Soviet times through independence and its first three decades as a sovereign nation. He transformed Kazakhstan from a Soviet republic into a stable, economically developed nation with significant influence in Central Asia. He voluntarily stepped down in 2019 but retained significant influence until the 2022 political crisis.",
+          "achievements": [
+            "Led Kazakhstan to independence",
+            "Economic development and modernization",
+            "Capital relocation to Astana",
+            "Multi-vector foreign policy"
+          ],
+          "related_countries": [
+            "Kazakhstan"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+*.log
+
+# Node
+node_modules/
+package-lock.json
+
+# Other
+dist/
+build/
+
+.env
+.env.local
+.env.production
+
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+backend/venv/
+frontend/dist/
+Matrixinfo/

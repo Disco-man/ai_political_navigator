@@ -1,0 +1,855 @@
+{
+  "countries": [
+    {
+      "id": "united_states_of_america",
+      "name": "United States of America",
+      "code": "USA",
+      "capital": "Washington, D.C.",
+      "population": 331900000,
+      "gdp": 25500.0,
+      "government_type": "Federal Presidential Republic",
+      "current_events": [
+        {
+          "id": "us_election_2024",
+          "title": "2024 Presidential Election",
+          "date": "2024-11-05",
+          "category": "domestic_policy",
+          "description": "The United States held its 60th presidential election with record voter turnout and significant political polarization.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Joe Biden",
+            "Donald Trump"
+          ],
+          "impact": "This election represents a critical moment in American democracy, with profound implications for domestic policy, international relations, and the global political landscape. The outcome will shape U.S. policy on climate change, healthcare, immigration, and foreign affairs for the next four years.",
+          "background": "The 2024 election takes place against a backdrop of deep political division in the United States. Issues such as economic inequality, healthcare reform, immigration policy, and the role of the federal government have created stark divides between political parties and among the American electorate.",
+          "developments": [
+            {
+              "date": "2023-11-15",
+              "title": "Campaign Season Officially Begins",
+              "description": "Major candidates from both parties officially announce their campaigns, setting the stage for a highly competitive race."
+            },
+            {
+              "date": "2024-03-05",
+              "title": "Super Tuesday Primary Results",
+              "description": "Critical primary elections across multiple states help determine the frontrunners for each party's nomination."
+            },
+            {
+              "date": "2024-09-10",
+              "title": "First Presidential Debate",
+              "description": "Candidates face off in the first of three scheduled debates, discussing key policy positions and attacking opponents' records."
+            }
+          ]
+        },
+        {
+          "id": "us_china_trade",
+          "title": "US-China Trade Relations",
+          "date": "2023-06-15",
+          "category": "foreign_policy",
+          "description": "Ongoing trade tensions and tariff negotiations between the United States and China continue to shape global economics.",
+          "severity": "high",
+          "related_countries": [
+            "China"
+          ],
+          "related_figures": [
+            "Joe Biden"
+          ]
+        },
+        {
+          "id": "us_inflation",
+          "title": "Inflation Control Measures",
+          "date": "2023-03-20",
+          "category": "economy",
+          "description": "Federal Reserve implements interest rate adjustments to combat inflation rates reaching 40-year highs.",
+          "severity": "medium",
+          "related_countries": [],
+          "related_figures": []
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "joe_biden",
+          "name": "Joe Biden",
+          "role": "46th President of the United States",
+          "birth_year": 1942,
+          "death_year": null,
+          "biography": "Joe Biden served as Vice President under Barack Obama from 2009-2017 before becoming the 46th President in 2021. Known for his focus on infrastructure, climate policy, and international alliances.",
+          "achievements": [
+            "Infrastructure Investment and Jobs Act",
+            "American Rescue Plan",
+            "Rejoining Paris Climate Agreement"
+          ],
+          "related_countries": [
+            "United States"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "russia",
+      "name": "Russia",
+      "code": "RUS",
+      "capital": "Moscow",
+      "population": 144100000,
+      "gdp": 2240.0,
+      "government_type": "Federal Semi-Presidential Republic",
+      "current_events": [
+        {
+          "id": "ukraine_conflict",
+          "title": "Russia-Ukraine Conflict",
+          "date": "2022-02-24",
+          "category": "military",
+          "description": "Large-scale military operation in Ukraine marking a significant shift in European security dynamics and international relations.",
+          "severity": "high",
+          "related_countries": [
+            "Ukraine",
+            "United States",
+            "NATO countries"
+          ],
+          "related_figures": [
+            "Vladimir Putin",
+            "Volodymyr Zelenskyy"
+          ],
+          "impact": "The conflict has fundamentally reshaped European security architecture, strengthened NATO unity, triggered the largest refugee crisis in Europe since World War II, and caused significant global economic disruptions, particularly in energy and food markets.",
+          "background": "Tensions between Russia and Ukraine have deep historical roots, dating back to the dissolution of the Soviet Union. The 2014 annexation of Crimea and support for separatists in eastern Ukraine set the stage for this broader conflict. Russia's concerns about NATO expansion and Ukraine's westward orientation contributed to escalating tensions.",
+          "developments": [
+            {
+              "date": "2022-02-24",
+              "title": "Military Operation Begins",
+              "description": "Russia launches a full-scale invasion of Ukraine across multiple fronts, targeting major cities including Kyiv, Kharkiv, and Mariupol."
+            },
+            {
+              "date": "2022-03-02",
+              "title": "International Sanctions Imposed",
+              "description": "Western nations implement unprecedented economic sanctions against Russia, targeting banks, oligarchs, and key industries."
+            },
+            {
+              "date": "2022-04-03",
+              "title": "Russian Forces Withdraw from Kyiv",
+              "description": "After failing to capture the capital, Russian forces retreat from the Kyiv region, shifting focus to eastern and southern Ukraine."
+            },
+            {
+              "date": "2022-09-21",
+              "title": "Partial Mobilization Announced",
+              "description": "Russia announces mobilization of 300,000 reservists, marking a significant escalation in the conflict."
+            },
+            {
+              "date": "2023-06-06",
+              "title": "Ukrainian Counteroffensive Begins",
+              "description": "Ukraine launches a major counteroffensive operation aimed at reclaiming occupied territories in the south and east."
+            }
+          ]
+        },
+        {
+          "id": "russia_sanctions",
+          "title": "International Economic Sanctions",
+          "date": "2022-03-01",
+          "category": "economy",
+          "description": "Western nations impose comprehensive economic sanctions affecting Russian banking, energy, and technology sectors.",
+          "severity": "high",
+          "related_countries": [
+            "United States",
+            "European Union"
+          ],
+          "related_figures": [
+            "Vladimir Putin"
+          ]
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "vladimir_putin",
+          "name": "Vladimir Putin",
+          "role": "President of Russia",
+          "birth_year": 1952,
+          "death_year": null,
+          "biography": "Vladimir Putin has served as President of Russia multiple times since 2000. Former KGB officer who has shaped modern Russian foreign policy and domestic governance.",
+          "achievements": [
+            "Stabilization of Russian economy in early 2000s",
+            "Expansion of Russian influence in post-Soviet space",
+            "Hosting 2014 Winter Olympics"
+          ],
+          "related_countries": [
+            "Russia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "code": "CHN",
+      "capital": "Beijing",
+      "population": 1412000000,
+      "gdp": 19370.0,
+      "government_type": "Socialist Republic",
+      "current_events": [
+        {
+          "id": "china_zero_covid",
+          "title": "Zero-COVID Policy Changes",
+          "date": "2022-12-07",
+          "category": "domestic_policy",
+          "description": "China ends its strict zero-COVID policy after nearly three years, leading to significant social and economic changes.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": [
+            "Xi Jinping"
+          ],
+          "impact": "The abrupt policy shift led to a massive wave of COVID-19 infections across China, overwhelming hospitals in major cities. The change also signaled a major pivot in government policy-making and had significant implications for global supply chains, international travel, and China's economic recovery.",
+          "background": "China's zero-COVID policy, implemented in early 2020, involved strict lockdowns, mass testing, and quarantine measures whenever cases were detected. While initially successful in controlling the virus, the policy became increasingly difficult to maintain with the emergence of more transmissible variants, leading to public frustration and economic strain.",
+          "developments": [
+            {
+              "date": "2022-11-24",
+              "title": "Widespread Protests Erupt",
+              "description": "Rare public protests break out in major cities across China, with citizens demanding an end to strict COVID-19 restrictions."
+            },
+            {
+              "date": "2022-12-07",
+              "title": "Policy Reversal Announced",
+              "description": "Chinese government announces a dramatic loosening of COVID-19 restrictions, effectively ending the zero-COVID policy."
+            },
+            {
+              "date": "2022-12-26",
+              "title": "Infection Wave Peaks",
+              "description": "Hospitals report being overwhelmed as COVID-19 infections surge across major Chinese cities following policy changes."
+            },
+            {
+              "date": "2023-01-08",
+              "title": "Borders Reopen",
+              "description": "China ends mandatory quarantine for international arrivals and begins issuing travel visas again, marking full reopening."
+            }
+          ]
+        },
+        {
+          "id": "taiwan_tensions",
+          "title": "Taiwan Strait Tensions",
+          "date": "2023-04-15",
+          "category": "foreign_policy",
+          "description": "Increased military activities and diplomatic tensions surrounding Taiwan's status and cross-strait relations.",
+          "severity": "high",
+          "related_countries": [
+            "Taiwan",
+            "United States"
+          ],
+          "related_figures": [
+            "Xi Jinping"
+          ],
+          "impact": "The escalation has raised concerns about potential military conflict in one of the world's most strategic regions, affecting global semiconductor supply chains, international trade routes, and U.S.-China relations. It has also prompted increased defense spending and military preparations across the Indo-Pacific region.",
+          "background": "China considers Taiwan a breakaway province that must be reunified with the mainland, while Taiwan's government maintains its de facto independence. U.S. support for Taiwan, including arms sales and diplomatic engagement, has long been a source of tension with Beijing.",
+          "developments": [
+            {
+              "date": "2022-08-02",
+              "title": "High-Profile Diplomatic Visit",
+              "description": "U.S. House Speaker Nancy Pelosi visits Taiwan, the highest-level U.S. visit in 25 years, angering Beijing."
+            },
+            {
+              "date": "2022-08-04",
+              "title": "Large-Scale Military Exercises",
+              "description": "China launches unprecedented military drills around Taiwan, including missile launches over the island."
+            },
+            {
+              "date": "2023-04-08",
+              "title": "Taiwan President's U.S. Transit",
+              "description": "Taiwan's president transits through the United States, prompting another round of Chinese military exercises."
+            }
+          ]
+        },
+        {
+          "id": "belt_road",
+          "title": "Belt and Road Initiative Expansion",
+          "date": "2023-10-18",
+          "category": "foreign_policy",
+          "description": "China's massive infrastructure and economic development program continues expanding into new countries and regions.",
+          "severity": "medium",
+          "related_countries": [
+            "Multiple Asian and African nations"
+          ],
+          "related_figures": [
+            "Xi Jinping"
+          ]
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "xi_jinping",
+          "name": "Xi Jinping",
+          "role": "General Secretary of the Communist Party and President",
+          "birth_year": 1953,
+          "death_year": null,
+          "biography": "Xi Jinping has led China since 2012, promoting the 'Chinese Dream' of national rejuvenation and cementing his power through anti-corruption campaigns and constitutional changes.",
+          "achievements": [
+            "Belt and Road Initiative",
+            "Anti-corruption campaign",
+            "Poverty alleviation programs"
+          ],
+          "related_countries": [
+            "China"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "united_kingdom",
+      "name": "United Kingdom",
+      "code": "GBR",
+      "capital": "London",
+      "population": 67220000,
+      "gdp": 3070.0,
+      "government_type": "Constitutional Monarchy",
+      "current_events": [
+        {
+          "id": "brexit",
+          "title": "Brexit and Post-EU Relations",
+          "date": "2020-01-31",
+          "category": "foreign_policy",
+          "description": "The United Kingdom officially left the European Union, reshaping trade relations and immigration policies.",
+          "severity": "high",
+          "related_countries": [
+            "European Union countries"
+          ],
+          "related_figures": [
+            "Boris Johnson",
+            "Rishi Sunak"
+          ],
+          "impact": "Brexit has fundamentally altered the UK's relationship with Europe, affecting trade, immigration, financial services, and diplomatic influence. The departure has led to new border controls, changed labor markets, and required renegotiation of hundreds of international agreements.",
+          "background": "The 2016 referendum on EU membership resulted in a narrow victory for the 'Leave' campaign. Years of complex negotiations followed, marked by political turmoil, multiple deadline extensions, and changes in government leadership before the UK finally departed on January 31, 2020.",
+          "developments": [
+            {
+              "date": "2016-06-23",
+              "title": "Brexit Referendum",
+              "description": "UK voters choose to leave the European Union by 52% to 48% in a historic referendum."
+            },
+            {
+              "date": "2019-12-12",
+              "title": "Conservative Election Victory",
+              "description": "Boris Johnson wins a decisive majority, promising to 'Get Brexit Done' and end political deadlock."
+            },
+            {
+              "date": "2020-01-31",
+              "title": "Official Departure from EU",
+              "description": "The UK formally leaves the European Union after 47 years of membership."
+            },
+            {
+              "date": "2020-12-24",
+              "title": "Trade Deal Agreed",
+              "description": "UK and EU agree on a post-Brexit trade deal, avoiding a disruptive no-deal exit."
+            }
+          ]
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "boris_johnson",
+          "name": "Boris Johnson",
+          "role": "Prime Minister (2019-2022)",
+          "birth_year": 1964,
+          "death_year": null,
+          "biography": "Boris Johnson led the UK through Brexit and COVID-19 pandemic, known for his distinctive political style.",
+          "achievements": [
+            "Led Brexit negotiations",
+            "COVID vaccine rollout"
+          ],
+          "related_countries": [
+            "United Kingdom"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "name": "Germany",
+      "code": "DEU",
+      "capital": "Berlin",
+      "population": 83240000,
+      "gdp": 4260.0,
+      "government_type": "Federal Parliamentary Republic",
+      "current_events": [
+        {
+          "id": "energy_crisis",
+          "title": "Energy Crisis and Green Transition",
+          "date": "2022-09-01",
+          "category": "economy",
+          "description": "Germany faces energy challenges following reduced Russian gas supplies, accelerating renewable energy transition.",
+          "severity": "high",
+          "related_countries": [
+            "Russia"
+          ],
+          "related_figures": [
+            "Olaf Scholz"
+          ]
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "angela_merkel",
+          "name": "Angela Merkel",
+          "role": "Chancellor (2005-2021)",
+          "birth_year": 1954,
+          "death_year": null,
+          "biography": "Angela Merkel served as German Chancellor for 16 years, becoming a key figure in European politics.",
+          "achievements": [
+            "EU leadership",
+            "Handling 2015 refugee crisis"
+          ],
+          "related_countries": [
+            "Germany"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "code": "FRA",
+      "capital": "Paris",
+      "population": 67390000,
+      "gdp": 2940.0,
+      "government_type": "Semi-Presidential Republic",
+      "current_events": [
+        {
+          "id": "pension_reform",
+          "title": "Pension Reform Protests",
+          "date": "2023-03-16",
+          "category": "domestic_policy",
+          "description": "Massive protests against raising retirement age from 62 to 64 sparked nationwide demonstrations.",
+          "severity": "medium",
+          "related_countries": [],
+          "related_figures": [
+            "Emmanuel Macron"
+          ]
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "emmanuel_macron",
+          "name": "Emmanuel Macron",
+          "role": "President",
+          "birth_year": 1977,
+          "death_year": null,
+          "biography": "Emmanuel Macron became France's youngest president in 2017, promoting European integration and economic reforms.",
+          "achievements": [
+            "EU leadership",
+            "Economic modernization"
+          ],
+          "related_countries": [
+            "France"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukraine",
+      "name": "Ukraine",
+      "code": "UKR",
+      "capital": "Kyiv",
+      "population": 43810000,
+      "gdp": 200.0,
+      "government_type": "Parliamentary Republic",
+      "current_events": [
+        {
+          "id": "ukraine_war",
+          "title": "Russo-Ukrainian War",
+          "date": "2022-02-24",
+          "category": "military",
+          "description": "Ukraine defends its sovereignty against Russian invasion, receiving international military and humanitarian support while maintaining democratic governance under wartime conditions.",
+          "severity": "high",
+          "related_countries": ["Russia", "United States", "NATO countries"],
+          "related_figures": ["Volodymyr Zelenskyy", "Vladimir Putin"]
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "volodymyr_zelenskyy",
+          "name": "Volodymyr Zelenskyy",
+          "role": "President",
+          "birth_year": 1978,
+          "death_year": null,
+          "biography": "Former comedian who became President in 2019, leading Ukraine through the 2022 Russian invasion with strong international communication and domestic resilience.",
+          "achievements": ["Wartime leadership", "International coalition building", "Democratic preservation"],
+          "related_countries": ["Ukraine"]
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "code": "IND",
+      "capital": "New Delhi",
+      "population": 1408000000,
+      "gdp": 3740.0,
+      "government_type": "Federal Parliamentary Republic",
+      "current_events": [
+        {
+          "id": "india_economy_growth",
+          "title": "Economic Growth and Digital Transformation",
+          "date": "2023-05-10",
+          "category": "economy",
+          "description": "India becomes the world's fifth-largest economy, driven by digital innovation, manufacturing expansion, and demographic advantages.",
+          "severity": "medium",
+          "related_countries": ["China", "United States"],
+          "related_figures": ["Narendra Modi"]
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "narendra_modi",
+          "name": "Narendra Modi",
+          "role": "Prime Minister",
+          "birth_year": 1950,
+          "death_year": null,
+          "biography": "Narendra Modi has led India since 2014, promoting economic reforms, digital initiatives, and assertive foreign policy while strengthening India's global position.",
+          "achievements": ["Digital India initiative", "Economic modernization", "G20 leadership"],
+          "related_countries": ["India"]
+        }
+      ]
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "code": "JPN",
+      "capital": "Tokyo",
+      "population": 125500000,
+      "gdp": 4940.0,
+      "government_type": "Constitutional Monarchy",
+      "current_events": [
+        {
+          "id": "japan_defense",
+          "title": "Defense Policy Transformation",
+          "date": "2022-12-16",
+          "category": "military",
+          "description": "Japan announces historic shift in defense policy, doubling military spending amid regional security concerns regarding China and North Korea.",
+          "severity": "high",
+          "related_countries": ["China", "North Korea", "United States"],
+          "related_figures": ["Fumio Kishida"]
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "shinzo_abe",
+          "name": "Shinzo Abe",
+          "role": "Prime Minister (2012-2020)",
+          "birth_year": 1954,
+          "death_year": 2022,
+          "biography": "Japan's longest-serving Prime Minister, Shinzo Abe promoted economic revitalization and constitutional reform before his assassination in 2022.",
+          "achievements": ["Abenomics economic policy", "Security legislation", "International diplomacy"],
+          "related_countries": ["Japan"]
+        }
+      ]
+    },
+    {
+      "id": "brazil",
+      "name": "Brazil",
+      "code": "BRA",
+      "capital": "Brasília",
+      "population": 215300000,
+      "gdp": 2090.0,
+      "government_type": "Federal Presidential Republic",
+      "current_events": [
+        {
+          "id": "amazon_deforestation",
+          "title": "Amazon Rainforest Protection Policies",
+          "date": "2023-01-20",
+          "category": "environment",
+          "description": "Brazil reverses course on environmental policy with new administration, pledging to reduce Amazon deforestation and restore environmental protections.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": ["Luiz Inacio Lula da Silva"]
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "lula",
+          "name": "Luiz Inacio Lula da Silva",
+          "role": "President",
+          "birth_year": 1945,
+          "death_year": null,
+          "biography": "Lula returned to presidency in 2023 after serving 2003-2010, focusing on social programs, poverty reduction, and environmental protection.",
+          "achievements": ["Poverty reduction programs", "Amazon protection", "Social welfare expansion"],
+          "related_countries": ["Brazil"]
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "name": "Israel",
+      "code": "ISR",
+      "capital": "Jerusalem",
+      "population": 9557000,
+      "gdp": 525.0,
+      "government_type": "Parliamentary Republic",
+      "current_events": [
+        {
+          "id": "israel_judicial_reform",
+          "title": "Judicial Reform Controversy",
+          "date": "2023-03-27",
+          "category": "domestic_policy",
+          "description": "Proposed judicial reforms spark massive protests and international concern about checks and balances in Israeli democracy.",
+          "severity": "high",
+          "related_countries": ["United States"],
+          "related_figures": ["Benjamin Netanyahu"]
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "benjamin_netanyahu",
+          "name": "Benjamin Netanyahu",
+          "role": "Prime Minister",
+          "birth_year": 1949,
+          "death_year": null,
+          "biography": "Benjamin Netanyahu is Israel's longest-serving prime minister, known for his security-focused policies and complex relationship with Palestinian territories.",
+          "achievements": ["Economic liberalization", "Abraham Accords", "Security policies"],
+          "related_countries": ["Israel"]
+        }
+      ]
+    },
+    {
+      "id": "iran",
+      "name": "Iran",
+      "code": "IRN",
+      "capital": "Tehran",
+      "population": 88550000,
+      "gdp": 389.0,
+      "government_type": "Islamic Republic",
+      "current_events": [
+        {
+          "id": "iran_protests",
+          "title": "Women's Rights Protests",
+          "date": "2022-09-16",
+          "category": "social",
+          "description": "Widespread protests following death of Mahsa Amini challenge mandatory hijab laws and government authority, marking significant social movement.",
+          "severity": "high",
+          "related_countries": [],
+          "related_figures": []
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "ali_khamenei",
+          "name": "Ali Khamenei",
+          "role": "Supreme Leader",
+          "birth_year": 1939,
+          "death_year": null,
+          "biography": "Ali Khamenei has served as Iran's Supreme Leader since 1989, wielding ultimate authority over political and military affairs.",
+          "achievements": ["Nuclear program development", "Regional influence expansion"],
+          "related_countries": ["Iran"]
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "name": "Turkey",
+      "code": "TUR",
+      "capital": "Ankara",
+      "population": 85340000,
+      "gdp": 906.0,
+      "government_type": "Presidential Republic",
+      "current_events": [
+        {
+          "id": "turkey_earthquake",
+          "title": "2023 Earthquake Response",
+          "date": "2023-02-06",
+          "category": "domestic_policy",
+          "description": "Devastating earthquakes kill over 50,000 people, prompting major reconstruction efforts and political debates about building standards.",
+          "severity": "high",
+          "related_countries": ["Syria"],
+          "related_figures": ["Recep Tayyip Erdogan"]
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "erdogan",
+          "name": "Recep Tayyip Erdogan",
+          "role": "President",
+          "birth_year": 1954,
+          "death_year": null,
+          "biography": "Recep Tayyip Erdogan has dominated Turkish politics since 2003, transforming Turkey's political system and pursuing assertive regional policies.",
+          "achievements": ["Constitutional reforms", "Infrastructure development", "Regional diplomacy"],
+          "related_countries": ["Turkey"]
+        }
+      ]
+    },
+    {
+      "id": "south_korea",
+      "name": "South Korea",
+      "code": "KOR",
+      "capital": "Seoul",
+      "population": 51780000,
+      "gdp": 1810.0,
+      "government_type": "Presidential Republic",
+      "current_events": [
+        {
+          "id": "korea_north_tensions",
+          "title": "North Korea Nuclear Tensions",
+          "date": "2023-09-13",
+          "category": "military",
+          "description": "Heightened tensions as North Korea accelerates nuclear and missile programs, prompting South Korea to strengthen defense cooperation with US and Japan.",
+          "severity": "high",
+          "related_countries": ["North Korea", "United States", "Japan"],
+          "related_figures": []
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "moon_jae_in",
+          "name": "Moon Jae-in",
+          "role": "President (2017-2022)",
+          "birth_year": 1953,
+          "death_year": null,
+          "biography": "Moon Jae-in pursued engagement with North Korea and strengthened democratic institutions, known for his 'Sunshine Policy' approach.",
+          "achievements": ["Inter-Korean summits", "Economic reforms", "COVID response"],
+          "related_countries": ["South Korea"]
+        }
+      ]
+    },
+    {
+      "id": "canada",
+      "name": "Canada",
+      "code": "CAN",
+      "capital": "Ottawa",
+      "population": 38930000,
+      "gdp": 2140.0,
+      "government_type": "Federal Parliamentary Democracy",
+      "current_events": [
+        {
+          "id": "canada_indigenous",
+          "title": "Indigenous Reconciliation Efforts",
+          "date": "2023-06-21",
+          "category": "social",
+          "description": "Canada continues efforts toward reconciliation with Indigenous peoples following residential school revelations and ongoing treaty negotiations.",
+          "severity": "medium",
+          "related_countries": [],
+          "related_figures": ["Justin Trudeau"]
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "justin_trudeau",
+          "name": "Justin Trudeau",
+          "role": "Prime Minister",
+          "birth_year": 1971,
+          "death_year": null,
+          "biography": "Justin Trudeau has led Canada since 2015, promoting progressive policies, climate action, and multiculturalism while navigating complex domestic and international challenges.",
+          "achievements": ["Climate leadership", "Indigenous reconciliation", "Immigration reform"],
+          "related_countries": ["Canada"]
+        }
+      ]
+    },
+    {
+      "id": "australia",
+      "name": "Australia",
+      "code": "AUS",
+      "capital": "Canberra",
+      "population": 26140000,
+      "gdp": 1680.0,
+      "government_type": "Federal Parliamentary Democracy",
+      "current_events": [
+        {
+          "id": "aus_china_relations",
+          "title": "China Relations Stabilization",
+          "date": "2023-11-06",
+          "category": "foreign_policy",
+          "description": "Australia works to stabilize relations with China after years of tensions, balancing economic interests with security concerns.",
+          "severity": "medium",
+          "related_countries": ["China", "United States"],
+          "related_figures": []
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "scott_morrison",
+          "name": "Scott Morrison",
+          "role": "Prime Minister (2018-2022)",
+          "birth_year": 1968,
+          "death_year": null,
+          "biography": "Scott Morrison led Australia through COVID-19 pandemic and managed complex relationship with China during his tenure as Prime Minister.",
+          "achievements": ["COVID pandemic management", "AUKUS security pact"],
+          "related_countries": ["Australia"]
+        }
+      ]
+    },
+    {
+      "id": "kazakhstan",
+      "name": "Kazakhstan",
+      "code": "KAZ",
+      "capital": "Astana",
+      "population": 19620000,
+      "gdp": 225.0,
+      "government_type": "Presidential Republic",
+      "current_events": [
+        {
+          "id": "kaz_political_reforms",
+          "title": "Political Reforms and Constitutional Changes",
+          "date": "2022-06-05",
+          "category": "domestic_policy",
+          "description": "Kazakhstan implements significant constitutional reforms following January 2022 protests, including limiting presidential powers and strengthening parliament.",
+          "severity": "high",
+          "related_countries": ["Russia"],
+          "related_figures": ["Kassym-Jomart Tokayev"],
+          "impact": "The reforms represent Kazakhstan's most significant political transformation since independence, reshaping the balance of power and moving toward a more pluralistic political system. Changes include limiting presidential terms, reducing presidential authority, and enhancing parliamentary oversight.",
+          "background": "The reforms were triggered by violent protests in January 2022 over fuel price increases that quickly evolved into broader demands for political change. The unrest led to a major rethinking of Kazakhstan's political structure and the role of its first president, Nursultan Nazarbayev.",
+          "developments": [
+            {
+              "date": "2022-01-05",
+              "title": "Nationwide Protests Erupt",
+              "description": "Mass protests begin in western Kazakhstan over fuel prices, quickly spreading nationwide with calls for political reforms."
+            },
+            {
+              "date": "2022-03-16",
+              "title": "Reform Package Announced",
+              "description": "President Tokayev announces comprehensive political reforms including constitutional amendments and redistribution of powers."
+            },
+            {
+              "date": "2022-06-05",
+              "title": "Constitutional Referendum",
+              "description": "Kazakhstanis vote on constitutional amendments with over 77% approval, fundamentally changing the political system."
+            }
+          ]
+        },
+        {
+          "id": "kaz_russia_relations",
+          "title": "Balancing Act Between Russia and the West",
+          "date": "2023-02-15",
+          "category": "foreign_policy",
+          "description": "Kazakhstan navigates complex geopolitical position following Russia's invasion of Ukraine, maintaining relationships with both Russia and Western nations.",
+          "severity": "high",
+          "related_countries": ["Russia", "China", "United States"],
+          "related_figures": ["Kassym-Jomart Tokayev"],
+          "impact": "Kazakhstan's diplomatic balancing act has significant implications for Central Asian geopolitics and the country's economic development. The country seeks to maintain its strategic autonomy while managing its long border with Russia and its membership in Russia-led organizations.",
+          "background": "As a former Soviet republic with a 7,600 km border with Russia and significant economic ties, Kazakhstan faces difficult choices in the post-2022 geopolitical environment. The country is also pursuing a multi-vector foreign policy to diversify its international partnerships."
+        },
+        {
+          "id": "kaz_economic_diversification",
+          "title": "Economic Diversification Beyond Oil",
+          "date": "2023-09-20",
+          "category": "economy",
+          "description": "Kazakhstan pursues ambitious economic diversification strategy to reduce dependence on oil and gas exports, focusing on technology, agriculture, and manufacturing.",
+          "severity": "medium",
+          "related_countries": ["China"],
+          "related_figures": ["Kassym-Jomart Tokayev"]
+        }
+      ],
+      "historical_figures": [
+        {
+          "id": "kassym_jomart_tokayev",
+          "name": "Kassym-Jomart Tokayev",
+          "role": "President",
+          "birth_year": 1953,
+          "death_year": null,
+          "biography": "Kassym-Jomart Tokayev became president of Kazakhstan in 2019, succeeding Nursultan Nazarbayev who had led the country since independence. A career diplomat and fluent speaker of multiple languages, Tokayev has pursued gradual political reforms while maintaining stability. Following the 2022 protests, he accelerated democratic reforms and reduced the influence of his predecessor.",
+          "achievements": ["Constitutional reforms 2022", "Political liberalization", "Multi-vector foreign policy", "Economic diversification initiatives"],
+          "related_countries": ["Kazakhstan"]
+        },
+        {
+          "id": "nursultan_nazarbayev",
+          "name": "Nursultan Nazarbayev",
+          "role": "First President (1991-2019)",
+          "birth_year": 1940,
+          "death_year": null,
+          "biography": "Nursultan Nazarbayev led Kazakhstan from Soviet times through independence and its first three decades as a sovereign nation. He transformed Kazakhstan from a Soviet republic into a stable, economically developed nation with significant influence in Central Asia. He voluntarily stepped down in 2019 but retained significant influence until the 2022 political crisis.",
+          "achievements": ["Led Kazakhstan to independence", "Economic development and modernization", "Capital relocation to Astana", "Multi-vector foreign policy"],
+          "related_countries": ["Kazakhstan"]
+        }
+      ]
+    }
+  ]
+}
