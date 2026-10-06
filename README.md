@@ -122,3 +122,5 @@ With the backend running:
 ## Note
 
 Content is AI-assisted and intended for learning. Verify important facts with authoritative sources.
+
+https://github.com/user-attachments/assets/d4f7b978-687d-4fa3-8464-1d7f13879ae6
